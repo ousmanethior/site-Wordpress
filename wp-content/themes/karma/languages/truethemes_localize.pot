@@ -1,0 +1,5119 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Karma\n"
+"POT-Creation-Date: 2018-08-30 19:25+0300\n"
+"PO-Revision-Date: 2018-08-30 19:25+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: attachment.php:73
+msgid "&larr; Previous"
+msgstr ""
+
+#: attachment.php:74
+msgid "Next &rarr;"
+msgstr ""
+
+#: attachment.php:123
+msgid "Pages:"
+msgstr ""
+
+#: bbpress/content-single-topic-lead.php:18
+#: bbpress/content-single-topic-lead.php:90
+msgid "Creator"
+msgstr ""
+
+#: bbpress/content-single-topic-lead.php:22
+#: bbpress/content-single-topic-lead.php:94 bbpress/loop-topics.php:19
+msgid "Topic"
+msgstr ""
+
+#: bbpress/content-statistics.php:21
+msgid "Registered Users"
+msgstr ""
+
+#: bbpress/content-statistics.php:28
+msgid "Forums"
+msgstr ""
+
+#: bbpress/content-statistics.php:35 bbpress/loop-forums.php:20
+msgid "Topics"
+msgstr ""
+
+#: bbpress/content-statistics.php:42 bbpress/loop-forums.php:21
+#: bbpress/loop-replies.php:32 bbpress/loop-topics.php:21
+msgid "Replies"
+msgstr ""
+
+#: bbpress/content-statistics.php:49
+msgid "Topic Tags"
+msgstr ""
+
+#: bbpress/content-statistics.php:58
+msgid "Empty Topic Tags"
+msgstr ""
+
+#: bbpress/content-statistics.php:71
+msgid "Hidden Topics"
+msgstr ""
+
+#: bbpress/content-statistics.php:84
+msgid "Hidden Replies"
+msgstr ""
+
+#: bbpress/form-reply-move.php:22
+#, php-format
+msgid "Move reply \"%s\""
+msgstr ""
+
+#: bbpress/form-reply-move.php:27
+msgid ""
+"You can either make this reply a new topic with a new title, or merge it "
+"into an existing topic."
+msgstr ""
+
+#: bbpress/form-reply-move.php:31
+msgid ""
+"If you choose an existing topic, replies will be ordered by the time and "
+"date they were created."
+msgstr ""
+
+#: bbpress/form-reply-move.php:35
+msgid "Move Method"
+msgstr ""
+
+#: bbpress/form-reply-move.php:39 bbpress/form-topic-split.php:39
+#, php-format
+msgid "New topic in <strong>%s</strong> titled:"
+msgstr ""
+
+#: bbpress/form-reply-move.php:40
+#, php-format
+msgid "Moved: %s"
+msgstr ""
+
+#: bbpress/form-reply-move.php:47 bbpress/form-topic-split.php:47
+msgid "Use an existing topic in this forum:"
+msgstr ""
+
+#: bbpress/form-reply-move.php:66 bbpress/form-topic-merge.php:87
+#: bbpress/form-topic-split.php:91
+msgid "<strong>WARNING:</strong> This process cannot be undone."
+msgstr ""
+
+#: bbpress/form-reply-move.php:70 bbpress/form-reply.php:133
+#: bbpress/form-topic-merge.php:91 bbpress/form-topic-split.php:95
+#: bbpress/form-topic.php:201
+msgid "Submit"
+msgstr ""
+
+#: bbpress/form-reply-move.php:83
+msgid "You do not have the permissions to edit this reply!"
+msgstr ""
+
+#: bbpress/form-reply-move.php:83
+msgid "You cannot edit this reply."
+msgstr ""
+
+#: bbpress/form-reply.php:27
+#, php-format
+msgid ""
+"<h3><i class=\"fa fa-comments-o\" aria-hidden=\"true\"></i> &nbsp; Reply To: "
+"%s</h3>"
+msgstr ""
+
+#: bbpress/form-reply.php:34
+msgid ""
+"This topic is marked as closed to new replies, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+
+#: bbpress/form-reply.php:42 bbpress/form-topic.php:59
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr ""
+
+#: bbpress/form-reply.php:62 bbpress/form-topic.php:88
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+
+#: bbpress/form-reply.php:73
+msgid "Tags:"
+msgstr ""
+
+#: bbpress/form-reply.php:91 bbpress/form-topic.php:162
+msgid "Notify the author of follow-up replies via email"
+msgstr ""
+
+#: bbpress/form-reply.php:95 bbpress/form-topic.php:166
+msgid "Notify me of follow-up replies via email"
+msgstr ""
+
+#: bbpress/form-reply.php:112 bbpress/form-topic.php:182
+msgid "Keep a log of this edit:"
+msgstr ""
+
+#: bbpress/form-reply.php:116 bbpress/form-topic.php:186
+msgid "Optional reason for editing:"
+msgstr ""
+
+#: bbpress/form-reply.php:156
+#, php-format
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr ""
+
+#: bbpress/form-reply.php:164 bbpress/form-topic.php:224
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr ""
+
+#: bbpress/form-reply.php:172
+msgid "You cannot reply to this topic."
+msgstr ""
+
+#: bbpress/form-reply.php:172
+msgid "You must be logged in to reply to this topic."
+msgstr ""
+
+#: bbpress/form-search.php:3
+msgid "Search for:"
+msgstr ""
+
+#: bbpress/form-search.php:5
+msgid "Search forum"
+msgstr ""
+
+#: bbpress/form-search.php:6
+msgid "Search"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:22
+#, php-format
+msgid "Merge topic \"%s\""
+msgstr ""
+
+#: bbpress/form-topic-merge.php:27
+msgid ""
+"Select the topic to merge this one into. The destination topic will remain "
+"the lead topic, and this one will change into a reply."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:28
+msgid ""
+"To keep this topic as the lead, go to the other topic and use the merge tool "
+"from there instead."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:32
+msgid ""
+"All replies within both topics will be merged chronologically. The order of "
+"the merged replies is based on the time and date they were posted. If the "
+"destination topic was created after this one, it's post date will be updated "
+"to second earlier than this one."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:36
+msgid "Destination"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:40
+msgid "Merge with this topic:"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:54
+msgid "There are no other topics in this forum to merge with."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:62 bbpress/form-topic-split.php:66
+msgid "Topic Extras"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:69
+msgid "Merge topic subscribers"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:74
+msgid "Merge topic favoriters"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:79
+msgid "Merge topic tags"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:104 bbpress/form-topic-split.php:108
+msgid "You do not have the permissions to edit this topic!"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:104 bbpress/form-topic-split.php:108
+msgid "You cannot edit this topic."
+msgstr ""
+
+#: bbpress/form-topic-split.php:22
+#, php-format
+msgid "Split topic \"%s\""
+msgstr ""
+
+#: bbpress/form-topic-split.php:27
+msgid ""
+"When you split a topic, you are slicing it in half starting with the reply "
+"you just selected. Choose to use that reply as a new topic with a new title, "
+"or merge those replies into an existing topic."
+msgstr ""
+
+#: bbpress/form-topic-split.php:31
+msgid ""
+"If you use the existing topic option, replies within both topics will be "
+"merged chronologically. The order of the merged replies is based on the time "
+"and date they were posted."
+msgstr ""
+
+#: bbpress/form-topic-split.php:35
+msgid "Split Method"
+msgstr ""
+
+#: bbpress/form-topic-split.php:40
+#, php-format
+msgid "Split: %s"
+msgstr ""
+
+#: bbpress/form-topic-split.php:73
+msgid "Copy subscribers to the new topic"
+msgstr ""
+
+#: bbpress/form-topic-split.php:78
+msgid "Copy favoriters to the new topic"
+msgstr ""
+
+#: bbpress/form-topic-split.php:83
+msgid "Copy topic tags to the new topic"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:18
+#, php-format
+msgid "Manage Tag: \"%s\""
+msgstr ""
+
+#: bbpress/form-topic-tag.php:22
+msgid "Rename"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:25
+msgid "Leave the slug empty to have one automatically generated."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:29
+msgid ""
+"Changing the slug affects its permalink. Any links to the old slug will stop "
+"working."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:35
+msgid "Name:"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:40
+msgid "Slug:"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:45
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:59 bbpress/form-topic-tag.php:73
+msgid "Merge"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:62
+msgid "Merging tags together cannot be undone."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:68
+msgid "Existing tag:"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:73
+#, php-format
+msgid ""
+"Are you sure you want to merge the \"%s\" tag into the tag you specified?"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:88 bbpress/form-topic-tag.php:101
+msgid "Delete"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:91
+msgid "This does not delete your topics. Only the tag itself is deleted."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:94
+msgid "Deleting a tag cannot be undone."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:95
+msgid "Any links to this tag will no longer function."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:101
+#, php-format
+msgid ""
+"Are you sure you want to delete the \"%s\" tag? This is permanent and cannot "
+"be undone."
+msgstr ""
+
+#: bbpress/form-topic.php:39
+#, php-format
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr ""
+
+#: bbpress/form-topic.php:41
+#, php-format
+msgid ""
+"<h3><i class=\"fa fa-pencil-square-o\" aria-hidden=\"true\"></i> &nbsp;"
+"Create New Topic in &ldquo;%s&rdquo;</h3>"
+msgstr ""
+
+#: bbpress/form-topic.php:41
+msgid "Create New Topic"
+msgstr ""
+
+#: bbpress/form-topic.php:51
+msgid ""
+"This forum is marked as closed to new topics, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+
+#: bbpress/form-topic.php:73
+#, php-format
+msgid "Topic Title (Maximum Length: %d):"
+msgstr ""
+
+#: bbpress/form-topic.php:99
+msgid "Topic Tags:"
+msgstr ""
+
+#: bbpress/form-topic.php:112
+msgid "Forum:"
+msgstr ""
+
+#: bbpress/form-topic.php:115
+msgid "(No Forum)"
+msgstr ""
+
+#: bbpress/form-topic.php:131
+msgid "Topic Type:"
+msgstr ""
+
+#: bbpress/form-topic.php:143
+msgid "Topic Status:"
+msgstr ""
+
+#: bbpress/form-topic.php:232
+msgid "You cannot create new topics."
+msgstr ""
+
+#: bbpress/form-topic.php:232
+msgid "You must be logged in to create new topics."
+msgstr ""
+
+#: bbpress/loop-forums.php:19
+msgid "Forum"
+msgstr ""
+
+#: bbpress/loop-forums.php:21 bbpress/loop-replies.php:24
+#: bbpress/loop-topics.php:21
+msgid "Posts"
+msgstr ""
+
+#: bbpress/loop-forums.php:22 bbpress/loop-topics.php:22
+msgid "Freshness"
+msgstr ""
+
+#: bbpress/loop-replies.php:18 bbpress/loop-search.php:18
+msgid "Author"
+msgstr ""
+
+#: bbpress/loop-search-forum.php:18
+#, php-format
+msgid "Last updated %s"
+msgstr ""
+
+#: bbpress/loop-search-forum.php:26
+msgid "Forum: "
+msgstr ""
+
+#: bbpress/loop-search-reply.php:24
+msgid "In reply to: "
+msgstr ""
+
+#: bbpress/loop-search-topic.php:26
+msgid "Topic: "
+msgstr ""
+
+#: bbpress/loop-search-topic.php:33
+msgid "in group forum "
+msgstr ""
+
+#: bbpress/loop-search-topic.php:37
+msgid "in forum "
+msgstr ""
+
+#: bbpress/loop-search.php:22 framework/site-options.php:2333
+msgid "Search Results"
+msgstr ""
+
+#: bbpress/loop-single-reply.php:21
+msgid "in reply to: "
+msgstr ""
+
+#: bbpress/loop-single-topic.php:60
+#, php-format
+msgid "Started by: %1$s"
+msgstr ""
+
+#: bbpress/loop-single-topic.php:68
+#, php-format
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: bbpress/loop-topics.php:20
+msgid "Voices"
+msgstr ""
+
+#: bbpress/user-details.php:39
+#, php-format
+msgid "%s's Profile"
+msgstr ""
+
+#: bbpress/user-details.php:39 bbpress/user-profile.php:15
+msgid "<i class=\"fa fa-user\" aria-hidden=\"true\"></i>&nbsp; Profile"
+msgstr ""
+
+#: bbpress/user-details.php:45
+#, php-format
+msgid "%s's Topics Started"
+msgstr ""
+
+#: bbpress/user-details.php:45
+msgid ""
+"<i class=\"fa fa-comment-o\" aria-hidden=\"true\"></i> &nbsp; Topics Started"
+msgstr ""
+
+#: bbpress/user-details.php:51
+#, php-format
+msgid "%s's Replies Created"
+msgstr ""
+
+#: bbpress/user-details.php:51
+msgid ""
+"<i class=\"fa fa-comments-o\" aria-hidden=\"true\"></i> &nbsp; Replies "
+"Created"
+msgstr ""
+
+#: bbpress/user-details.php:58
+#, php-format
+msgid "%s's Favorites"
+msgstr ""
+
+#: bbpress/user-details.php:58
+msgid "<i class=\"fa fa-star\" aria-hidden=\"true\"></i> &nbsp; Favorites"
+msgstr ""
+
+#: bbpress/user-details.php:68
+#, php-format
+msgid "%s's Subscriptions"
+msgstr ""
+
+#: bbpress/user-details.php:68
+msgid "<i class=\"fa fa-rss\" aria-hidden=\"true\"></i> &nbsp; Subscriptions"
+msgstr ""
+
+#: bbpress/user-details.php:75
+#, php-format
+msgid "Edit %s's Profile"
+msgstr ""
+
+#: bbpress/user-details.php:75
+msgid ""
+"<i class=\"fa fa-pencil-square-o\" aria-hidden=\"true\"></i> &nbsp; Edit"
+msgstr ""
+
+#: bbpress/user-favorites.php:15
+msgid ""
+"<i class=\"fa fa-star\" aria-hidden=\"true\"></i> &nbsp; Favorite Forum "
+"Topics"
+msgstr ""
+
+#: bbpress/user-favorites.php:28
+msgid "You currently have no favorite topics."
+msgstr ""
+
+#: bbpress/user-favorites.php:28
+msgid "This user has no favorite topics."
+msgstr ""
+
+#: bbpress/user-profile.php:24
+#, php-format
+msgid "Forum Role: %s"
+msgstr ""
+
+#: bbpress/user-profile.php:25
+#, php-format
+msgid "Topics Started: %s"
+msgstr ""
+
+#: bbpress/user-profile.php:26
+#, php-format
+msgid "Replies Created: %s"
+msgstr ""
+
+#: bbpress/user-replies-created.php:15
+msgid ""
+"<i class=\"fa fa-comments-o\" aria-hidden=\"true\"></i> &nbsp; Forum Replies "
+"Created"
+msgstr ""
+
+#: bbpress/user-replies-created.php:28
+msgid "You have not replied to any topics."
+msgstr ""
+
+#: bbpress/user-replies-created.php:28
+msgid "This user has not replied to any topics."
+msgstr ""
+
+#: bbpress/user-subscriptions.php:19
+msgid ""
+"<i class=\"fa fa-rss\" aria-hidden=\"true\"></i> &nbsp; Subscribed Forums"
+msgstr ""
+
+#: bbpress/user-subscriptions.php:28
+msgid "You are not currently subscribed to any forums."
+msgstr ""
+
+#: bbpress/user-subscriptions.php:28
+msgid "This user is not currently subscribed to any forums."
+msgstr ""
+
+#: bbpress/user-subscriptions.php:34
+msgid ""
+"<i class=\"fa fa-rss\" aria-hidden=\"true\"></i> &nbsp; Subscribed Topics"
+msgstr ""
+
+#: bbpress/user-subscriptions.php:47
+msgid "You are not currently subscribed to any topics."
+msgstr ""
+
+#: bbpress/user-subscriptions.php:47
+msgid "This user is not currently subscribed to any topics."
+msgstr ""
+
+#: bbpress/user-topics-created.php:15
+msgid ""
+"<i class=\"fa fa-comment-o\" aria-hidden=\"true\"></i> &nbsp; Forum Topics "
+"Started"
+msgstr ""
+
+#: bbpress/user-topics-created.php:28
+msgid "You have not created any topics."
+msgstr ""
+
+#: bbpress/user-topics-created.php:28
+msgid "This user has not created any topics."
+msgstr ""
+
+#: comments.php:5 page-comments.php:14
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:29 page-comments.php:38
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:31 page-comments.php:40
+msgid "reply"
+msgstr ""
+
+#: comments.php:31 page-comments.php:40
+msgid "edit"
+msgstr ""
+
+#: comments.php:45 comments.php:51
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:60
+#: page-comments.php:54 page-comments.php:60
+msgid "Comments"
+msgstr ""
+
+#: comments.php:45 page-comments.php:54
+msgid "Comment"
+msgstr ""
+
+#: comments.php:46 page-comments.php:55
+msgid "Trackbacks"
+msgstr ""
+
+#: comments.php:46 page-comments.php:55
+msgid "Trackback"
+msgstr ""
+
+#: comments.php:69 page-comments.php:78
+msgid "Subscribe to Comments"
+msgstr ""
+
+#: comments.php:104 page-comments.php:113
+msgid "Your Comments"
+msgstr ""
+
+#: comments.php:105 page-comments.php:114
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:108 page-comments.php:117
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:113 page-comments.php:122
+msgid "Add a Comment"
+msgstr ""
+
+#: comments.php:114 page-comments.php:123
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:115 page-comments.php:124
+msgid "click here to cancel reply"
+msgstr ""
+
+#: comments.php:116 page-comments.php:125
+msgid "Add Comment"
+msgstr ""
+
+#: footer.php:70
+msgid "Add Copyright in Wordpress Dashboard: <a href=\""
+msgstr ""
+
+#: framework/admin/admin-interface.php:125
+msgid "Site Options"
+msgstr ""
+
+#: framework/admin/admin-interface.php:125
+msgid "Theme Support &rarr;"
+msgstr ""
+
+#: framework/admin/admin-interface.php:161
+#: framework/admin/admin-interface.php:187
+msgid "Save All Changes"
+msgstr ""
+
+#: framework/admin/admin-interface.php:169
+msgid "Reset Options"
+msgstr ""
+
+#: framework/custom-metaboxes.php:44
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Appearance > Menus</a>."
+msgstr ""
+
+#: framework/custom-metaboxes.php:73
+msgid "Custom Settings"
+msgstr ""
+
+#: framework/custom-metaboxes.php:82
+msgid ""
+"Portfolio Full Size URL  <span style=\"font-weight:normal !important;"
+"\"><em>(Image, Flash Video, Youtube Video, etc)</em></span>"
+msgstr ""
+
+#: framework/custom-metaboxes.php:83
+msgid ""
+"<b>Samples:</b><br><br><b>Image:</b>&nbsp;&nbsp; http://www.yourdomain.com/"
+"wp-content/uploads/project1.jpg<br>\n"
+"<b>YouTube:</b>&nbsp;&nbsp; http://www.youtube.com/watch?v=VKS08be78os<br>\n"
+"<b>Flash:</b>&nbsp;&nbsp; http://www.yourdomain.com/wp-content/uploads/"
+"design.swf?width=792&amp;height=294<br>\n"
+"<b>Vimeo:</b>&nbsp;&nbsp; http://vimeo.com/8245346<br>\n"
+"<b>iFrame:</b>&nbsp;&nbsp; http://www.apple.com?iframe=true&amp;"
+"width=850&amp;height=500<br>"
+msgstr ""
+
+#: framework/custom-metaboxes.php:93
+msgid "Portfolio Description"
+msgstr ""
+
+#: framework/custom-metaboxes.php:94
+msgid "<b>Note:</b> This description will be displayed in the JQuery pop-up."
+msgstr ""
+
+#: framework/custom-metaboxes.php:100
+msgid "Link This Image"
+msgstr ""
+
+#: framework/custom-metaboxes.php:101
+msgid ""
+"Enter a URL if you wish to link this image.<br><b>Sample:</b> &nbsp;http://"
+"www.yourdomain.com/about-us"
+msgstr ""
+
+#: framework/custom-metaboxes.php:111
+msgid "Post Settings"
+msgstr ""
+
+#: framework/custom-metaboxes.php:119
+msgid "Featured Media"
+msgstr ""
+
+#: framework/custom-metaboxes.php:121
+msgid ""
+"Blog Posts can easily feature an Image or Video at the top of each post.<br /"
+"><br /><strong>1. Featured Image (normal) -</strong> This is the recommended "
+"function if not featuring a Video. Simply use the Wordpress <a href="
+"\"#postimagediv\">Featured Image</a> box on the right side of this screen to "
+"upload a featured image.<br /><br /><strong>2. Featured Image (external) -</"
+"strong> Use the field below to Feature an image which is located on a "
+"different web server.<br /><br /><strong>3. Featured Video -</strong> Use "
+"the field below to Feature a Video instead of an image."
+msgstr ""
+
+#: framework/custom-metaboxes.php:125
+msgid "Featured Image (external)"
+msgstr ""
+
+#: framework/custom-metaboxes.php:126
+msgid ""
+"Enter the full URL of the external image that you'd like to feature.<br /"
+"><strong>Sample URL:</strong> http://www.sample-website.com/image.png"
+msgstr ""
+
+#: framework/custom-metaboxes.php:132 framework/custom-metaboxes.php:858
+msgid "Featured Video"
+msgstr ""
+
+#: framework/custom-metaboxes.php:133
+msgid ""
+"Enter the full URL to the video that you'd like to feature.<br /"
+"><strong>Sample URL:</strong> http://vimeo.com/70149174"
+msgstr ""
+
+#: framework/custom-metaboxes.php:147
+msgid "Custom Sub-menu"
+msgstr ""
+
+#: framework/custom-metaboxes.php:155
+msgid "Sub-menu"
+msgstr ""
+
+#: framework/custom-metaboxes.php:156
+msgid "Display a custom sub-menu by selecting it from the dropdown list below."
+msgstr ""
+
+#: framework/custom-metaboxes.php:166
+msgid "Check the box below to completely disable the sub-menu on this page."
+msgstr ""
+
+#: framework/custom-metaboxes.php:171
+msgid "Disable sub-menu"
+msgstr ""
+
+#: framework/custom-metaboxes.php:186 framework/custom-metaboxes.php:194
+msgid "Page Settings"
+msgstr ""
+
+#: framework/custom-metaboxes.php:198 framework/site-options.php:1817
+#: framework/site-options.php:1821 framework/site-options.php:1827
+#: framework/site-options.php:2523
+msgid "Page Title Bar"
+msgstr ""
+
+#: framework/custom-metaboxes.php:199
+msgid ""
+"Should a page title bar be displayed on this page? (page title, breadcrumbs, "
+"search box)"
+msgstr ""
+
+#: framework/custom-metaboxes.php:208
+msgid "Page Title"
+msgstr ""
+
+#: framework/custom-metaboxes.php:209
+msgid "Use this to override the title displayed in page title bar."
+msgstr ""
+
+#: framework/custom-metaboxes.php:215
+msgid "Searchbox"
+msgstr ""
+
+#: framework/custom-metaboxes.php:216
+msgid "Should a searchbox be displayed on this page?"
+msgstr ""
+
+#: framework/custom-metaboxes.php:226
+msgid "Page Comments"
+msgstr ""
+
+#: framework/custom-metaboxes.php:227
+msgid "Should a comments form be displayed at the bottom of this page?"
+msgstr ""
+
+#: framework/custom-metaboxes.php:243 framework/custom-metaboxes.php:250
+#: framework/site-options.php:2055
+msgid "Slider Settings"
+msgstr ""
+
+#: framework/custom-metaboxes.php:256
+msgid "Karma Slider"
+msgstr ""
+
+#: framework/custom-metaboxes.php:257
+msgid ""
+"Display a slider on this page by selecting one from the dropdown list. <a "
+"href=\""
+msgstr ""
+
+#: framework/custom-metaboxes.php:268
+msgid "Slider Category"
+msgstr ""
+
+#: framework/custom-metaboxes.php:269
+msgid "Which slider category should be used to populate the slides?"
+msgstr ""
+
+#: framework/custom-metaboxes.php:276
+msgid "Slider Category ID"
+msgstr ""
+
+#: framework/custom-metaboxes.php:277 framework/custom-metaboxes.php:390
+msgid ""
+"Enter the category ID only if the above category dropdown is not working."
+msgstr ""
+
+#: framework/custom-metaboxes.php:282
+msgid "Slider BG Color"
+msgstr ""
+
+#: framework/custom-metaboxes.php:284
+msgid "Customize the background color of the slider on this page."
+msgstr ""
+
+#: framework/custom-metaboxes.php:288
+msgid "3D CU3ER Slider"
+msgstr ""
+
+#: framework/custom-metaboxes.php:289
+msgid ""
+"Enter the Slider ID Number if you wish to display a 3D CU3ER slider on this "
+"page.<br /><a href=\""
+msgstr ""
+
+#: framework/custom-metaboxes.php:295
+msgid "Slider Shortcode"
+msgstr ""
+
+#: framework/custom-metaboxes.php:296
+msgid ""
+"Enter a Shortcode if you wish to display custom slider such as LayerSlider "
+"or Revolution Slider.<br />Example: [layerslider id=\"1\"]"
+msgstr ""
+
+#: framework/custom-metaboxes.php:302
+msgid "Full Width Mode"
+msgstr ""
+
+#: framework/custom-metaboxes.php:306
+msgid ""
+"Check this box to enable Full Width Mode. Slider will span 100% width of the "
+"website. Only valid for sliders added to the 'Slider Shortcode' field above "
+"(ie. LayerSlider and Revolution Slider)."
+msgstr ""
+
+#: framework/custom-metaboxes.php:318 framework/custom-metaboxes.php:326
+msgid "Gallery Settings"
+msgstr ""
+
+#: framework/custom-metaboxes.php:328
+msgid ""
+"Use these settings to display a gallery on this page. Please ensure to "
+"assign the \"Filterable Gallery\" template to this page."
+msgstr ""
+
+#: framework/custom-metaboxes.php:333 framework/site-options.php:2511
+msgid "Page Layout"
+msgstr ""
+
+#: framework/custom-metaboxes.php:349
+msgid "Image Frame Style"
+msgstr ""
+
+#: framework/custom-metaboxes.php:350
+msgid "<a href=\""
+msgstr ""
+
+#: framework/custom-metaboxes.php:361 framework/custom-metaboxes.php:679
+#: framework/custom-metaboxes.php:729 framework/custom-metaboxes.php:741
+#: framework/custom-metaboxes.php:753 framework/custom-metaboxes.php:765
+#: framework/custom-metaboxes.php:777 framework/site-options.php:253
+msgid "Title"
+msgstr ""
+
+#: framework/custom-metaboxes.php:362
+msgid "Should the post title be displayed below each gallery item?"
+msgstr ""
+
+#: framework/custom-metaboxes.php:371 framework/custom-metaboxes.php:685
+#: framework/karma-megamenu.php:328 framework/nav-output.php:290
+msgid "Description"
+msgstr ""
+
+#: framework/custom-metaboxes.php:372
+msgid "Should the description be displayed below each gallery item?"
+msgstr ""
+
+#: framework/custom-metaboxes.php:381 framework/custom-metaboxes.php:654
+#: framework/custom-metaboxes.php:804
+msgid "Category"
+msgstr ""
+
+#: framework/custom-metaboxes.php:382
+msgid "Which gallery category should be used to populate the gallery?"
+msgstr ""
+
+#: framework/custom-metaboxes.php:389
+msgid "Gallery Category ID"
+msgstr ""
+
+#: framework/custom-metaboxes.php:396
+msgid "Enter the text for the \"All Categories\" filtering link."
+msgstr ""
+
+#: framework/custom-metaboxes.php:402 framework/custom-metaboxes.php:423
+msgid "Item Count"
+msgstr ""
+
+#: framework/custom-metaboxes.php:403
+msgid ""
+"How many gallery items should be displayed? (leave blank to display all "
+"posts)"
+msgstr ""
+
+#: framework/custom-metaboxes.php:408
+msgid "Non-Filterable"
+msgstr ""
+
+#: framework/custom-metaboxes.php:409
+msgid ""
+"Use these settings to create a non-filterable Gallery from items created "
+"using Normal Posts. <br />Please ignore Filterable Settings and ensure "
+"you've assigned a \"Portfolio\" <a href=\"#parent_id\">Page Template</a> to "
+"this page for proper rendering."
+msgstr ""
+
+#: framework/custom-metaboxes.php:416
+msgid "Which post category should be used to populate the gallery items?"
+msgstr ""
+
+#: framework/custom-metaboxes.php:424
+msgid "How many gallery items should be displayed?"
+msgstr ""
+
+#: framework/custom-metaboxes.php:435 framework/custom-metaboxes.php:444
+#: framework/custom-metaboxes.php:448
+msgid "Parallax Banner"
+msgstr ""
+
+#: framework/custom-metaboxes.php:450
+msgid "Should a Parallax Banner be displayed on this page?"
+msgstr ""
+
+#: framework/custom-metaboxes.php:459
+msgid "Banner BG Color"
+msgstr ""
+
+#: framework/custom-metaboxes.php:461
+msgid "Select a background color for this banner area."
+msgstr ""
+
+#: framework/custom-metaboxes.php:465
+msgid "Banner BG Image"
+msgstr ""
+
+#: framework/custom-metaboxes.php:466
+msgid "Upload a banner image."
+msgstr ""
+
+#: framework/custom-metaboxes.php:471
+msgid "Padding"
+msgstr ""
+
+#: framework/custom-metaboxes.php:472
+msgid "Define the top and bottom padding of this banner area."
+msgstr ""
+
+#: framework/custom-metaboxes.php:478
+msgid "Banner Text"
+msgstr ""
+
+#: framework/custom-metaboxes.php:479
+msgid "Enter text to be displayed within this banner or simply leave blank."
+msgstr ""
+
+#: framework/custom-metaboxes.php:493 framework/custom-metaboxes.php:501
+msgid "Styling Options"
+msgstr ""
+
+#: framework/custom-metaboxes.php:506
+msgid "Primary"
+msgstr ""
+
+#: framework/custom-metaboxes.php:544
+msgid "Secondary"
+msgstr ""
+
+#: framework/custom-metaboxes.php:582
+msgid "Gradient Design Style"
+msgstr ""
+
+#: framework/custom-metaboxes.php:583
+msgid "Check this box for gradient design style"
+msgstr ""
+
+#: framework/custom-metaboxes.php:588
+msgid "Flat Design Style"
+msgstr ""
+
+#: framework/custom-metaboxes.php:589
+msgid "Check this box for flat design style"
+msgstr ""
+
+#: framework/custom-metaboxes.php:594
+msgid "Background"
+msgstr ""
+
+#: framework/custom-metaboxes.php:595
+msgid ""
+"These background settings are exclusive to this page and will only visible "
+"in the boxed layout design."
+msgstr ""
+
+#: framework/custom-metaboxes.php:599
+msgid "Body BG Color"
+msgstr ""
+
+#: framework/custom-metaboxes.php:604
+msgid "Body BG Image"
+msgstr ""
+
+#: framework/custom-metaboxes.php:609
+msgid "BG Image Position"
+msgstr ""
+
+#: framework/custom-metaboxes.php:623
+msgid "BG Image Repeat"
+msgstr ""
+
+#: framework/custom-metaboxes.php:634
+msgid "BG Image Fixed"
+msgstr ""
+
+#: framework/custom-metaboxes.php:635
+msgid "Check this box to set the BG Image to Fixed."
+msgstr ""
+
+#: framework/custom-metaboxes.php:646
+msgid "Settings"
+msgstr ""
+
+#: framework/custom-metaboxes.php:655
+msgid ""
+"Use the <strong>Categories box</strong> in the right column of this screen "
+"to define a category for this gallery post. (this category will be used for "
+"filtering.)"
+msgstr ""
+
+#: framework/custom-metaboxes.php:660
+msgid "Thumbnail"
+msgstr ""
+
+#: framework/custom-metaboxes.php:661
+msgid ""
+"Thumbnails are the images displayed in a grid layout on the gallery page."
+msgstr ""
+
+#: framework/custom-metaboxes.php:666
+msgid "Image"
+msgstr ""
+
+#: framework/custom-metaboxes.php:667
+msgid ""
+"Upload a thumbnail image for this gallery post. This image will be "
+"automatically resized.<br /><a href=\""
+msgstr ""
+
+#: framework/custom-metaboxes.php:673
+msgid "Content"
+msgstr ""
+
+#: framework/custom-metaboxes.php:674
+msgid ""
+"This content is displayed below the thumbnail. Simply leave blank if prefer "
+"not to display content."
+msgstr ""
+
+#: framework/custom-metaboxes.php:693
+msgid "Page Linking"
+msgstr ""
+
+#: framework/custom-metaboxes.php:694
+msgid ""
+"Use this section to link this gallery post to a Page rather than a Lightbox. "
+"Simply ignore this section if you prefer Lightbox."
+msgstr ""
+
+#: framework/custom-metaboxes.php:699
+msgid "Page URL"
+msgstr ""
+
+#: framework/custom-metaboxes.php:700
+msgid "Enter a URL if you prefer to link this gallery post to a page."
+msgstr ""
+
+#: framework/custom-metaboxes.php:707
+msgid "Open Page Link in"
+msgstr ""
+
+#: framework/custom-metaboxes.php:717
+msgid "Lightbox"
+msgstr ""
+
+#: framework/custom-metaboxes.php:718
+msgid ""
+"Each gallery post can have up to 5 Lightbox items. Each item can be given a "
+"Title which is displayed within the Lightbox.<br /><br />Use the \"Upload "
+"File\" button to display an image or enter the full URL to display one of "
+"the other <a href=\""
+msgstr ""
+
+#: framework/custom-metaboxes.php:723
+msgid "Lightbox Item 1"
+msgstr ""
+
+#: framework/custom-metaboxes.php:735
+msgid "Lightbox Item 2"
+msgstr ""
+
+#: framework/custom-metaboxes.php:747
+msgid "Lightbox Item 3"
+msgstr ""
+
+#: framework/custom-metaboxes.php:759
+msgid "Lightbox Item 4"
+msgstr ""
+
+#: framework/custom-metaboxes.php:771
+msgid "Lightbox Item 5"
+msgstr ""
+
+#: framework/custom-metaboxes.php:789
+msgid "Slide Settings"
+msgstr ""
+
+#: framework/custom-metaboxes.php:797
+msgid "Blank Canvas Mode"
+msgstr ""
+
+#: framework/custom-metaboxes.php:798
+msgid ""
+"Check this box to enable a blank canvas for this slide. All settings below "
+"will be ignored and only content entered into the content editor of this "
+"post will be displayed."
+msgstr ""
+
+#: framework/custom-metaboxes.php:805
+msgid ""
+"Use the <strong>Categories box</strong> in the right column of this screen "
+"to define a category for this slider post."
+msgstr ""
+
+#: framework/custom-metaboxes.php:810 framework/custom-metaboxes.php:830
+msgid "Featured Image"
+msgstr ""
+
+#: framework/custom-metaboxes.php:811
+msgid ""
+"Setup a featured image for this slide. <a href=\"#featured-video\">Skip this "
+"section and scroll down</a> to display a Featured Video instead."
+msgstr ""
+
+#: framework/custom-metaboxes.php:818
+msgid ""
+"All images automatically re-sized to the dimensions below:<br /><br /"
+"><strong>jQuery 1 Slider - Image Dimensions:</strong><br />Normal Image: 404 "
+"x 256<br />Full-width Image: 940 x 283<br /><br /><strong>jQuery 2 Slider - "
+"Image Dimensions:</strong><br />Normal Image: 436 x 270<br />Full-width "
+"Image: 840 x 270<br />Full-bleed Image: 920 x 358<br /><br /><strong>jQuery "
+"3 Slider - Image Dimensions:</strong><br />Normal Image: 436 x 270<br />Full-"
+"width Image: 960 x 350"
+msgstr ""
+
+#: framework/custom-metaboxes.php:836
+msgid "Image Linking"
+msgstr ""
+
+#: framework/custom-metaboxes.php:837
+msgid "Turn this image into a clickable link by entering the full URL here."
+msgstr ""
+
+#: framework/custom-metaboxes.php:843
+msgid "ALT Text"
+msgstr ""
+
+#: framework/custom-metaboxes.php:844
+msgid "Add ALT text to this image to help boost your website's SEO."
+msgstr ""
+
+#: framework/custom-metaboxes.php:851
+msgid "<a name=\"featured-video\"></a>Featured Video"
+msgstr ""
+
+#: framework/custom-metaboxes.php:852
+msgid ""
+"Enter a YouTube or Vimeo URL below. Full list of supported video services "
+"listed at: <a href=\"http://codex.wordpress.org/"
+"Embeds#Okay.2C_So_What_Sites_Can_I_Embed_From.3F\" target=\"_blank\">http://"
+"codex.wordpress.org/Embeds</a>."
+msgstr ""
+
+#: framework/custom-metaboxes.php:860
+msgid "<strong>Sample URL:</strong> http://vimeo.com/70149174"
+msgstr ""
+
+#: framework/extended/3d-tag-cloud/wp-cumulus.php:28
+msgid "Display a 3D tag cloud on your site."
+msgstr ""
+
+#: framework/extended/3d-tag-cloud/wp-cumulus.php:29
+msgid "CUSTOM - 3D Tag Cloud"
+msgstr ""
+
+#: framework/extended/3d-tag-cloud/wp-cumulus.php:84 framework/widgets.php:360
+#: framework/widgets.php:433 framework/widgets.php:492
+#: framework/widgets.php:547
+msgid "Title:"
+msgstr ""
+
+#: framework/extended/3d-tag-cloud/wp-cumulus.php:86
+msgid "Speed:"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:86
+msgid "From"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:87
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:834
+msgid "Message"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:88
+msgid "Date"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:158
+msgid "Resore this item from the Trash"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:160
+msgid "Restore"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:163
+#: framework/extended/grunion-contact-form/admin.php:262
+msgid "Delete this item permanently"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:165
+#: framework/extended/grunion-contact-form/admin.php:264
+msgid "Delete Permanently"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:196
+msgid "Mark this message as spam"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:203
+#: framework/extended/grunion-contact-form/admin.php:205
+#: framework/extended/grunion-contact-form/admin.php:497
+msgid "Trash"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:256
+msgid "Mark this message as NOT spam"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:295
+msgid "Y-m-d @ g:i:s A"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:419
+msgid "You are not allowed to manage this item."
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:453
+msgid "You are not allowed to move this item out of the Trash."
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:456
+msgid "Error in restoring from Trash."
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:460
+msgid "You are not allowed to move this item to the Trash."
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:463
+msgid "Error in moving to Trash."
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:487
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:833
+#: framework/extended/grunion-contact-form/grunion-form-view.php:113
+msgid "Messages"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:510
+msgid "Spam"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:53
+#: framework/extended/grunion-contact-form/grunion-form-view.php:135
+#: framework/theme-functions.php:590
+msgid "Name"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:54
+msgid "Email Address"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:55
+#: framework/extended/grunion-contact-form/grunion-form-view.php:139
+#: framework/theme-functions.php:598
+msgid "Website"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:58
+msgid "Subject"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:129
+msgid "Yes"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:171
+#, php-format
+msgid "%s requires a valid email address"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:178
+#, php-format
+msgid "%s is required"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:376
+msgid "Invalid CAPTCHA"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:564
+msgid "l F j, Y \\a\\t g:i a"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:835
+msgid "Search Message"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:836
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:837
+msgid "No message found"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:852
+#, php-format
+msgid "Spam <span class=\"count\">(%s)</span>"
+msgid_plural "Spam <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:876
+msgid "Add a custom form"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:110
+msgid "Can I add more fields?"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:111
+msgid "Sure thing."
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:111
+msgid "Click here"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:111
+msgid "to add a new text box, textarea, radio, checkbox, or dropdown field."
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:112
+msgid "Can I view my messages within WordPress?"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:113
+msgid "Yep, you can read your messages at any time by clicking the"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:113
+msgid "link in the main admin menu."
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:114
+msgid "Can I specify the Email Address where this form will get sent?"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:115
+msgid ""
+"Yep. Simply click the \"Email Notifications\" tab at the top of this window."
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:125
+msgid "Edit this new field"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:127
+msgid "Label"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:130
+msgid "Field type"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:132
+msgid "Checkbox"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:133
+msgid "Drop down"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:134
+#: framework/theme-functions.php:594
+msgid "Email"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:136
+msgid "Radio"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:137
+msgid "Text"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:138
+msgid "Textarea"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:145
+msgid "Options"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:149
+msgid "Add another option"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:156
+msgid "Required?"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:166
+msgid "Here's what your form will look like"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:171
+msgid "Add a new field"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:182
+msgid "Email settings"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:184
+msgid "Enter your email address"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:187
+msgid "What should the subject line be?"
+msgstr ""
+
+#: framework/extended/multiple_sidebars.php:59
+msgid "Custom Sidebar"
+msgstr ""
+
+#: framework/extended/multiple_sidebars.php:308
+msgid "Sidebar"
+msgstr ""
+
+#: framework/extended/multiple_sidebars.php:309
+msgid "Display a custom sidebar by selecting it from the dropdown list below."
+msgstr ""
+
+#: framework/extended/multiple_sidebars.php:309
+msgid "Please note:"
+msgstr ""
+
+#: framework/extended/multiple_sidebars.php:309
+msgid ""
+"this page must be using a sidebar-ready page template in order to properly "
+"display a sidebar."
+msgstr ""
+
+#: framework/extended/multiple_sidebars.php:309
+msgid "(ie. \"Left Sidebar\" page template)"
+msgstr ""
+
+#: framework/extended/multiple_sidebars.php:309
+msgid "Need to create a new Sidebar?"
+msgstr ""
+
+#: framework/extended/multiple_sidebars.php:309
+msgid "Appearance > Sidebars"
+msgstr ""
+
+#: framework/extended/page-links-to/page-links-to.php:258
+msgctxt "Meta box title"
+msgid "Page Links To"
+msgstr ""
+
+#: framework/extended/page-links-to/page-links-to.php:278
+msgid "Point this content to:"
+msgstr ""
+
+#: framework/extended/page-links-to/page-links-to.php:279
+msgid "Its normal WordPress URL"
+msgstr ""
+
+#: framework/extended/page-links-to/page-links-to.php:280
+msgid "A custom URL"
+msgstr ""
+
+#: framework/extended/page-links-to/page-links-to.php:283
+msgid "Open this link in a new tab"
+msgstr ""
+
+#: framework/extended/page-links-to/page-links-to.php:579
+msgid ""
+"<strong>Note</strong>: This content is pointing to a custom URL. Use the "
+"&#8220;Page Links To&#8221; box to change this behavior."
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:335
+#: functions.php:829 functions.php:830
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:337
+#: functions.php:831
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:339
+#: functions.php:832
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:340
+#: functions.php:833
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:343
+#: functions.php:835
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:349
+#: functions.php:840
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:355
+#: functions.php:845
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:361
+#: functions.php:850
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:367
+#: functions.php:855
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:373
+#: functions.php:860
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:378
+#: functions.php:865
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:383
+#: functions.php:870
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:388
+#: functions.php:875
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:393
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:920
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2626
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:394
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:3252
+#: functions.php:880
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:395
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:3045
+#: functions.php:881
+#, fuzzy
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+"#-#-#-#-#  3extracted.pot (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  5extracted.pot (PACKAGE VERSION)  #-#-#-#-#\n"
+msgstr[1] "#-#-#-#-#  3extracted.pot (PACKAGE VERSION)  #-#-#-#-#\n"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+#: functions.php:882
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:399
+#: functions.php:883
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:401
+#: functions.php:884
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:403
+#: functions.php:885
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:404
+#: functions.php:886
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1027
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1214
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2435
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2481
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:3602
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:3602
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/extended/woocommerce.php:170
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: framework/extended/woocommerce.php:193
+#: framework/extended/woocommerce.php:278
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: framework/extended/woocommerce.php:242
+msgid "Error 404"
+msgstr ""
+
+#: framework/extended/woocommerce.php:282
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: framework/extended/woocommerce.php:287
+msgid "Author:"
+msgstr ""
+
+#: framework/extended/woocommerce.php:293
+msgid "Page"
+msgstr ""
+
+#: framework/extended/wp-pagenavi.php:189
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr ""
+
+#: framework/extended/wp-pagenavi.php:192
+#: framework/extended/wp-pagenavi.php:195
+msgid "&laquo;"
+msgstr ""
+
+#: framework/extended/wp-pagenavi.php:193
+#: framework/extended/wp-pagenavi.php:194
+msgid "&raquo;"
+msgstr ""
+
+#: framework/extended/wp-pagenavi.php:196
+#: framework/extended/wp-pagenavi.php:197
+msgid "..."
+msgstr ""
+
+#: framework/karma-megamenu.php:254 framework/nav-output.php:203
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: framework/karma-megamenu.php:273
+msgid "Column"
+msgstr ""
+
+#: framework/karma-megamenu.php:274
+msgid "Mega Menu"
+msgstr ""
+
+#: framework/karma-megamenu.php:275 framework/karma-megamenu.php:277
+#: framework/nav-output.php:242 framework/nav-output.php:244
+msgid "Edit Menu Item"
+msgstr ""
+
+#: framework/karma-megamenu.php:285 framework/nav-output.php:253
+msgid "URL"
+msgstr ""
+
+#: framework/karma-megamenu.php:292 framework/nav-output.php:260
+msgid "Navigation Label"
+msgstr ""
+
+#: framework/karma-megamenu.php:293
+msgid ""
+"Mega Menu Column Title &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(use a \"-\" dash "
+"for no title)"
+msgstr ""
+
+#: framework/karma-megamenu.php:301 framework/nav-output.php:266
+msgid "Title Attribute"
+msgstr ""
+
+#: framework/karma-megamenu.php:307
+msgid "link Target"
+msgstr ""
+
+#: framework/karma-megamenu.php:309
+msgid "Same window or tab"
+msgstr ""
+
+#: framework/karma-megamenu.php:310
+msgid "New window or tab"
+msgstr ""
+
+#: framework/karma-megamenu.php:316 framework/nav-output.php:278
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: framework/karma-megamenu.php:322
+msgid "link Relationship (XFN)"
+msgstr ""
+
+#: framework/karma-megamenu.php:334
+msgid ""
+"Font Awesome Icon &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
+"&nbsp;example: fa fa-chevron-right"
+msgstr ""
+
+#: framework/karma-megamenu.php:381 framework/nav-output.php:310
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: framework/karma-megamenu.php:394 framework/nav-output.php:323
+#: framework/truethemes/metabox/helpers/cmb_Meta_Box_types.php:167
+#: framework/truethemes/metabox/helpers/cmb_Meta_Box_types.php:459
+#: framework/truethemes/metabox/helpers/cmb_Meta_Box_types.php:502
+msgid "Remove"
+msgstr ""
+
+#: framework/karma-megamenu.php:421
+msgid "Home"
+msgstr ""
+
+#: framework/karma-welcome.php:8
+#, php-format
+msgid "Welcome to Karma&nbsp;%s"
+msgstr ""
+
+#: framework/nav-output.php:199
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: framework/nav-output.php:227
+msgid "Move up"
+msgstr ""
+
+#: framework/nav-output.php:240
+msgid "Move down"
+msgstr ""
+
+#: framework/nav-output.php:273
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: framework/nav-output.php:284
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: framework/nav-output.php:292
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: framework/nav-output.php:300
+msgid "Custom Icon"
+msgstr ""
+
+#: framework/nav-output.php:324
+msgid "Cancel"
+msgstr ""
+
+#: framework/site-options.php:75
+msgid "General"
+msgstr ""
+
+#: framework/site-options.php:79
+msgid "General Settings"
+msgstr ""
+
+#: framework/site-options.php:80
+msgid "A handful of powerful settings to improve user experience."
+msgstr ""
+
+#: framework/site-options.php:94
+msgid "Theme Updates"
+msgstr ""
+
+#: framework/site-options.php:95
+msgid ""
+"Enter your Item Purchase code to recieve automatic updates for Karma.<br /"
+"><a href=\"http://s3.truethemes.net/helpdesk/signup-themeforest-item-"
+"purchase-code.png\" class=\"thickbox\">Where can I find my item purchase "
+"code?</a>"
+msgstr ""
+
+#: framework/site-options.php:101
+msgid "Meta Boxes"
+msgstr ""
+
+#: framework/site-options.php:102
+msgid ""
+"This functionality hides meta boxes in the Dashboard to help Wordpress feel "
+"more like a CMS. This includes: Comments, Discussion, Trackbacks, Custom "
+"Fields, Author, and Slug. <em>Un-check this box to disable this "
+"functionality.</em>"
+msgstr ""
+
+#: framework/site-options.php:108
+msgid "Inline Editing"
+msgstr ""
+
+#: framework/site-options.php:109
+msgid ""
+"This functionality adds an inline-editing button to all pages & posts so "
+"that logged-in administrators can quickly and easily edit their website. "
+"<em>Un-check this box to disable this functionality.</em>"
+msgstr ""
+
+#: framework/site-options.php:115
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: framework/site-options.php:116
+msgid ""
+"The Sidebar and Side-Nav pages have a sticky sidebar that stays in place "
+"while the page is scrolled. <em>Un-check this box to disable the sticky "
+"sidebar.</em>"
+msgstr ""
+
+#: framework/site-options.php:122
+msgid "Disable TimThumb Image Resizing"
+msgstr ""
+
+#: framework/site-options.php:123
+msgid ""
+"Check this box to disable the TimThumb image re-sizing script. The TimThumb "
+"script gets activated whenever displaying an image which has (not) been "
+"uploaded to the WordPress media library. This option is provided for users "
+"who wish to crop their own externally-hosted images. If you've activated "
+"this option and images are not loading correctly kindly uncheck this "
+"checkbox to return the TimThumb script back into the theme."
+msgstr ""
+
+#: framework/site-options.php:129
+msgid "Tracking Code"
+msgstr ""
+
+#: framework/site-options.php:130
+msgid "Paste Google Analytics (or other) tracking code here."
+msgstr ""
+
+#: framework/site-options.php:142
+msgid "Mobile"
+msgstr ""
+
+#: framework/site-options.php:146
+msgid "Mobile Settings"
+msgstr ""
+
+#: framework/site-options.php:147
+msgid "Specify how your website will behave when viewed on mobile devices."
+msgstr ""
+
+#: framework/site-options.php:152
+msgid "Disable Responsive Design"
+msgstr ""
+
+#: framework/site-options.php:153
+msgid "Check this box to disable Karma's responsive design."
+msgstr ""
+
+#: framework/site-options.php:159
+msgid "Mobile Menu"
+msgstr ""
+
+#: framework/site-options.php:160
+msgid "This text is displayed next to the Mobile Menu button."
+msgstr ""
+
+#: framework/site-options.php:166
+msgid "Mobile Menu - Sub-Pages"
+msgstr ""
+
+#: framework/site-options.php:167
+msgid ""
+"Check this box to display all Mobile Menu items in a long list rather than "
+"the user clicking on the arrow to reveal sub-pages."
+msgstr ""
+
+#: framework/site-options.php:173
+msgid "Mobile Left-nav + Right-nav"
+msgstr ""
+
+#: framework/site-options.php:174
+msgid ""
+"The side menu on left-nav and right-nav page templates converts to a "
+"dropdown list on small mobile devices. This text is displayed as the first "
+"option in the dropdown list"
+msgstr ""
+
+#: framework/site-options.php:180
+msgid "Mobile Horizontal-nav ---- Dropdown list"
+msgstr ""
+
+#: framework/site-options.php:181
+msgid ""
+"Check this box to convert Karma's horizontal sub-nav into dropdown list on "
+"small mobile devices."
+msgstr ""
+
+#: framework/site-options.php:187
+msgid "Apple Touch Icons"
+msgstr ""
+
+#: framework/site-options.php:188
+msgid ""
+"Specify a custom icon to be displayed on a users Apple mobile device when "
+"they save your website to their home screen. <a href=\"http://iconifier.net/"
+"\" target=\"_blank\">Free online icon generator tool</a>"
+msgstr ""
+
+#: framework/site-options.php:193
+msgid "iPhone"
+msgstr ""
+
+#: framework/site-options.php:194
+msgid "57px x 57px"
+msgstr ""
+
+#: framework/site-options.php:199
+msgid "iPhone (Retina)"
+msgstr ""
+
+#: framework/site-options.php:200
+msgid "114px x 114px"
+msgstr ""
+
+#: framework/site-options.php:205
+msgid "iPad"
+msgstr ""
+
+#: framework/site-options.php:206
+msgid "72px x 72px"
+msgstr ""
+
+#: framework/site-options.php:211
+msgid "iPad (Retina)"
+msgstr ""
+
+#: framework/site-options.php:212
+msgid "144px x 144px"
+msgstr ""
+
+#: framework/site-options.php:224
+msgid "Blog"
+msgstr ""
+
+#: framework/site-options.php:228
+msgid "Blog Settings"
+msgstr ""
+
+#: framework/site-options.php:229
+msgid "Global Settings for your website's Blog."
+msgstr ""
+
+#: framework/site-options.php:234
+msgid "Blog Layout"
+msgstr ""
+
+#: framework/site-options.php:235
+msgid "Select a blog layout"
+msgstr ""
+
+#: framework/site-options.php:246
+msgid "Blog Page"
+msgstr ""
+
+#: framework/site-options.php:247
+msgid "Select your website's blog page."
+msgstr ""
+
+#: framework/site-options.php:254
+msgid "Enter the Title to be displayed in the blog's utility bar."
+msgstr ""
+
+#: framework/site-options.php:260
+msgid "Heading Type for Blog Posts"
+msgstr ""
+
+#: framework/site-options.php:261
+msgid "Select a heading type for blog page and single blog page."
+msgstr ""
+
+#: framework/site-options.php:266
+msgid "Heading 1 (H1)"
+msgstr ""
+
+#: framework/site-options.php:267
+msgid "Heading 2 (H2)"
+msgstr ""
+
+#: framework/site-options.php:268
+msgid "Heading 3 (H3)"
+msgstr ""
+
+#: framework/site-options.php:269
+msgid "Heading 4 (H4)"
+msgstr ""
+
+#: framework/site-options.php:270
+msgid "Heading 5 (H5)"
+msgstr ""
+
+#: framework/site-options.php:271
+msgid "Heading 6 (H6)"
+msgstr ""
+
+#: framework/site-options.php:275
+msgid "Exclude Categories"
+msgstr ""
+
+#: framework/site-options.php:276
+msgid "Select any categories that you'd like to hide from the blog."
+msgstr ""
+
+#: framework/site-options.php:282
+msgid "Disable Exclude Categories"
+msgstr ""
+
+#: framework/site-options.php:283
+msgid ""
+"Check this box to disable the \"Exclude Categories\" function above. This "
+"will speed up the blog page. (only check the box if not excluding categories "
+"above)"
+msgstr ""
+
+#: framework/site-options.php:289
+msgid "Image Frames"
+msgstr ""
+
+#: framework/site-options.php:290
+msgid "Select an image frame style for featured images."
+msgstr ""
+
+#: framework/site-options.php:308
+msgid "Blog Posts"
+msgstr ""
+
+#: framework/site-options.php:312
+msgid "Blog Post Settings"
+msgstr ""
+
+#: framework/site-options.php:313
+msgid "A handful of powerful settings for your blog posts."
+msgstr ""
+
+#: framework/site-options.php:318
+msgid "Blog Post Layout"
+msgstr ""
+
+#: framework/site-options.php:319
+msgid "Select a layout for blog posts (single.php)"
+msgstr ""
+
+#: framework/site-options.php:330
+msgid "Post Content &lt;!--more --&gt;"
+msgstr ""
+
+#: framework/site-options.php:331
+msgid ""
+"This theme automatically adds a \"Read More\" button after 80 characters of "
+"text. Check this box to instead revert back to the Wordpress content() "
+"function requiring a  &lt;!--more --&gt; tag for content breaking."
+msgstr ""
+
+#: framework/site-options.php:337
+msgid "\"Posted by\" Information"
+msgstr ""
+
+#: framework/site-options.php:338
+msgid ""
+"Check this box to hide the \"Posted by\" information printed under each blog "
+"post title."
+msgstr ""
+
+#: framework/site-options.php:344
+msgid "Post Date"
+msgstr ""
+
+#: framework/site-options.php:345
+msgid "Check this box to hide the post date on all blog posts.</em>"
+msgstr ""
+
+#: framework/site-options.php:351
+msgid "Post Date ( Year )"
+msgstr ""
+
+#: framework/site-options.php:352
+msgid "Check this box to show the post year on all blog posts.</em>"
+msgstr ""
+
+#: framework/site-options.php:358
+msgid "\"Read More\" - Button Label"
+msgstr ""
+
+#: framework/site-options.php:359
+msgid "Enter a custom label for the \"read more\" buttons."
+msgstr ""
+
+#: framework/site-options.php:365
+msgid "\"Read More\" - Button Color"
+msgstr ""
+
+#: framework/site-options.php:366
+msgid "Select a color for the \"read more\" buttons."
+msgstr ""
+
+#: framework/site-options.php:405
+msgid "\"Read More\" - Button Size"
+msgstr ""
+
+#: framework/site-options.php:406
+msgid "Select a size for the \"read more\" buttons."
+msgstr ""
+
+#: framework/site-options.php:417
+msgid "About-the-Author"
+msgstr ""
+
+#: framework/site-options.php:418
+msgid ""
+"The author's bio is displayed at the end of each Single Blog post. <em>Un-"
+"check this box to disable this functionality.</em><br />Author bio can be "
+"set within the Wordpress Profile page. <a href=\"profile.php\">Users > Your "
+"Profile</a>"
+msgstr ""
+
+#: framework/site-options.php:424
+msgid "Related Posts"
+msgstr ""
+
+#: framework/site-options.php:425
+msgid ""
+"Un-check this box to disable related posts at the end of each blog post."
+msgstr ""
+
+#: framework/site-options.php:431
+msgid "Related Posts - Title"
+msgstr ""
+
+#: framework/site-options.php:432
+msgid ""
+"Enter a title to be dislpayed above the related posts. (ie. \"Related Posts"
+"\")."
+msgstr ""
+
+#: framework/site-options.php:438
+msgid "Related Posts - Item Count"
+msgstr ""
+
+#: framework/site-options.php:439
+msgid "How many related posts would you like to display? (3-5 is recommended)."
+msgstr ""
+
+#: framework/site-options.php:445
+msgid "Post Comments"
+msgstr ""
+
+#: framework/site-options.php:446
+msgid "Un-check this box to completely disable comments on all blog posts."
+msgstr ""
+
+#: framework/site-options.php:452
+msgid "Post Comments - Avatar"
+msgstr ""
+
+#: framework/site-options.php:453
+msgid ""
+"This theme uses a custom avatar image when users do not have a Gravatar.com "
+"account. <em>Un-check this box to disable this functionality and use "
+"WordPress avatars instead.</em>"
+msgstr ""
+
+#: framework/site-options.php:459
+msgid "Social Sharing"
+msgstr ""
+
+#: framework/site-options.php:460
+msgid "Check one of the boxes below to activate social sharing."
+msgstr ""
+
+#: framework/site-options.php:465
+msgid "Social Sharing Links"
+msgstr ""
+
+#: framework/site-options.php:466
+msgid "Font-Awesome vector sharing buttons for Twitter, Facebook and Google+."
+msgstr ""
+
+#: framework/site-options.php:472
+msgid "Drag-to-Share"
+msgstr ""
+
+#: framework/site-options.php:473
+msgid ""
+"An interactive \"drag-to-share\" button added to each blog post. <em>(only "
+"works on desktop)</em>"
+msgstr ""
+
+#: framework/site-options.php:487 framework/site-options.php:491
+msgid "Custom CSS"
+msgstr ""
+
+#: framework/site-options.php:492
+msgid "Easily add custom CSS and other scripts to your website."
+msgstr ""
+
+#: framework/site-options.php:497
+msgid "Custom CSS Code"
+msgstr ""
+
+#: framework/site-options.php:498
+msgid ""
+"Use this area to add custom CSS code to your website. This code will "
+"automatically be inserted between &lt;style&gt; tags"
+msgstr ""
+
+#: framework/site-options.php:503
+msgid "Custom Scripts &lt;/head&gt;"
+msgstr ""
+
+#: framework/site-options.php:504
+msgid ""
+"Scripts entered in this field will be placed before the &lt;/head&gt; tag."
+msgstr ""
+
+#: framework/site-options.php:509
+msgid "Custom Scripts &lt;/body&gt;"
+msgstr ""
+
+#: framework/site-options.php:510
+msgid ""
+"Scripts entered in this field will be placed before the &lt;/body&gt; tag."
+msgstr ""
+
+#: framework/site-options.php:523 framework/site-options.php:527
+msgid "Color Scheme"
+msgstr ""
+
+#: framework/site-options.php:528
+msgid ""
+"Choose from 30 professionally-designed color schemes. Click one and done."
+msgstr ""
+
+#: framework/site-options.php:533
+msgid "Karma Flat Design"
+msgstr ""
+
+#: framework/site-options.php:534
+msgid "Check this box to enable flat design style."
+msgstr ""
+
+#: framework/site-options.php:540
+msgid "Primary Color Scheme"
+msgstr ""
+
+#: framework/site-options.php:541
+msgid ""
+"Please select the primary color scheme for your website. (header and footer "
+"color scheme)"
+msgstr ""
+
+#: framework/site-options.php:580
+msgid "Secondary Color Scheme"
+msgstr ""
+
+#: framework/site-options.php:581
+msgid ""
+"Select a secondary color scheme only if you wish to override the default "
+"secondary color. (left nav, page title bar, etc)"
+msgstr ""
+
+#: framework/site-options.php:631
+msgid "OLD Custom - Primary Color Scheme"
+msgstr ""
+
+#: framework/site-options.php:632
+msgid ""
+"Check this box to activate Custom Primary Website Color Scheme. <em>(header "
+"and footer color scheme)</em>"
+msgstr ""
+
+#: framework/site-options.php:639
+msgid "OLD Custom - Secondary Color Scheme"
+msgstr ""
+
+#: framework/site-options.php:640
+msgid ""
+"Check this box to activate Custom Secondary Website Color Scheme.  <em>(link "
+"color, breadcrumb bar, etc)</em>"
+msgstr ""
+
+#: framework/site-options.php:647
+msgid "OLD Gradient Color - Light"
+msgstr ""
+
+#: framework/site-options.php:648
+msgid "Specify the lighter color of the custom gradient."
+msgstr ""
+
+#: framework/site-options.php:654
+msgid "OLD Gradient Color - Dark"
+msgstr ""
+
+#: framework/site-options.php:655
+msgid "Specify the darker color of the custom gradient."
+msgstr ""
+
+#: framework/site-options.php:661
+msgid "Footer Bottom - Background Image"
+msgstr ""
+
+#: framework/site-options.php:662
+msgid "Upload"
+msgstr ""
+
+#: framework/site-options.php:668
+msgid "IE8+9 - Image - Utility Bar - Top"
+msgstr ""
+
+#: framework/site-options.php:669 framework/site-options.php:684
+msgid "980x6"
+msgstr ""
+
+#: framework/site-options.php:676
+msgid "IE8+9 - Image - Utility Bar - Middle"
+msgstr ""
+
+#: framework/site-options.php:677
+msgid "980x2"
+msgstr ""
+
+#: framework/site-options.php:683
+msgid "IE8+9 - Image - Utility Bar - Bottom"
+msgstr ""
+
+#: framework/site-options.php:690
+msgid "IE8+9 - Image - jQuery Banner"
+msgstr ""
+
+#: framework/site-options.php:691
+msgid "940x283"
+msgstr ""
+
+#: framework/site-options.php:700
+msgid "Customize the Top Toolbar"
+msgstr ""
+
+#: framework/site-options.php:705
+msgid "Top Toolbar - Background Color"
+msgstr ""
+
+#: framework/site-options.php:710
+msgid "Top Toolbar - Link Color"
+msgstr ""
+
+#: framework/site-options.php:715
+msgid "Top Toolbar - Link Hover Color"
+msgstr ""
+
+#: framework/site-options.php:720
+msgid "Top Toolbar - Dropdown Menu Background Color"
+msgstr ""
+
+#: framework/site-options.php:725
+msgid "Top Toolbar - Dropdown Menu Link Hover Background Color"
+msgstr ""
+
+#: framework/site-options.php:733
+msgid "Customize the Header"
+msgstr ""
+
+#: framework/site-options.php:737
+msgid "Header Background - Flat Design Style"
+msgstr ""
+
+#: framework/site-options.php:739 framework/site-options.php:819
+msgid "<em>Choosing a color here will override the gradient colors below</em>"
+msgstr ""
+
+#: framework/site-options.php:743
+msgid "Header Background - Gradient Top"
+msgstr ""
+
+#: framework/site-options.php:748
+msgid "Header Background - Gradient Bottom"
+msgstr ""
+
+#: framework/site-options.php:753
+msgid "Header - Top Border Color"
+msgstr ""
+
+#: framework/site-options.php:758
+msgid "Header - Bottom Border Color"
+msgstr ""
+
+#: framework/site-options.php:765
+msgid "Customize the Header Menu"
+msgstr ""
+
+#: framework/site-options.php:770
+msgid "Top-Level Link Color"
+msgstr ""
+
+#: framework/site-options.php:775
+msgid "Top-Level Link Hover Color"
+msgstr ""
+
+#: framework/site-options.php:780
+msgid "Link Description Color"
+msgstr ""
+
+#: framework/site-options.php:786
+msgid "Dropdown Menu - Background Color"
+msgstr ""
+
+#: framework/site-options.php:791
+msgid "Dropdown Menu - Link Color"
+msgstr ""
+
+#: framework/site-options.php:796
+msgid "Dropdown Menu - Link Hover Color"
+msgstr ""
+
+#: framework/site-options.php:801
+msgid "Dropdown Menu - Link Hover Background Color"
+msgstr ""
+
+#: framework/site-options.php:806
+msgid "Dropdown Menu - Current Page Link Color"
+msgstr ""
+
+#: framework/site-options.php:813
+msgid "Customize the Footer"
+msgstr ""
+
+#: framework/site-options.php:817
+msgid "Footer Background - Flat Design Style"
+msgstr ""
+
+#: framework/site-options.php:823
+msgid "Footer Background - Gradient Top"
+msgstr ""
+
+#: framework/site-options.php:828
+msgid "Footer Background - Gradient Bottom"
+msgstr ""
+
+#: framework/site-options.php:833
+msgid "Footer - Top Border Color"
+msgstr ""
+
+#: framework/site-options.php:838
+msgid "Footer - Bottom Border Color"
+msgstr ""
+
+#: framework/site-options.php:843
+msgid "Footer - Text Color"
+msgstr ""
+
+#: framework/site-options.php:848
+msgid "Footer - Link Color"
+msgstr ""
+
+#: framework/site-options.php:853
+msgid "Footer - Link Hover Color"
+msgstr ""
+
+#: framework/site-options.php:858
+msgid "Footer Bottom - Background Color"
+msgstr ""
+
+#: framework/site-options.php:863
+msgid "Footer Bottom - Link Color"
+msgstr ""
+
+#: framework/site-options.php:868
+msgid "Footer Bottom - Link Hover Color"
+msgstr ""
+
+#: framework/site-options.php:873
+msgid "Footer - Scroll to Top Background"
+msgstr ""
+
+#: framework/site-options.php:878
+msgid "Footer - Scroll to Top Background Hover"
+msgstr ""
+
+#: framework/site-options.php:885
+msgid "Customize Sub Menus"
+msgstr ""
+
+#: framework/site-options.php:889
+msgid "Horizontal Menu - Active Link Background Color"
+msgstr ""
+
+#: framework/site-options.php:894
+msgid "Left Nav + Right Nav - Active Menu Item"
+msgstr ""
+
+#: framework/site-options.php:895
+msgid "Lorem Ipsum"
+msgstr ""
+
+#: framework/site-options.php:903
+msgid "Customize Body Content + Links"
+msgstr ""
+
+#: framework/site-options.php:908
+msgid "Link Color"
+msgstr ""
+
+#: framework/site-options.php:909
+msgid "Specify a color for your website's links."
+msgstr ""
+
+#: framework/site-options.php:917
+msgid "Customize Page Title Bar"
+msgstr ""
+
+#: framework/site-options.php:921
+msgid "Page Title Bar Background - Flat Design Style"
+msgstr ""
+
+#: framework/site-options.php:926
+msgid "Page Title Bar Background - Gradient Inner"
+msgstr ""
+
+#: framework/site-options.php:931
+msgid "Page Title Bar Background - Gradient Outer"
+msgstr ""
+
+#: framework/site-options.php:938
+msgid "Customize Post Comments"
+msgstr ""
+
+#: framework/site-options.php:943
+msgid "Post Comments Background - Flat Design Style"
+msgstr ""
+
+#: framework/site-options.php:948
+msgid "Post Comments Background - Gradient Inner"
+msgstr ""
+
+#: framework/site-options.php:953
+msgid "Post Comments Background - Gradient Outer"
+msgstr ""
+
+#: framework/site-options.php:960
+msgid "Internet Explorer"
+msgstr ""
+
+#: framework/site-options.php:961
+msgid ""
+"Internet Explorer 8 does not support RGBa so requires these additional color "
+"settings:"
+msgstr ""
+
+#: framework/site-options.php:966
+msgid "IE8 - Top Toolbar - Text Color"
+msgstr ""
+
+#: framework/site-options.php:967
+msgid "Specify the color for all text within the Top Toolbar."
+msgstr ""
+
+#: framework/site-options.php:972
+msgid "IE8 - Main Menu - Navi Description Text"
+msgstr ""
+
+#: framework/site-options.php:973
+msgid "Specify the color for the main menu navi description text."
+msgstr ""
+
+#: framework/site-options.php:978
+msgid "IE8 - Footer - Link Color"
+msgstr ""
+
+#: framework/site-options.php:979
+msgid "Specify the color for all links within the Footer."
+msgstr ""
+
+#: framework/site-options.php:984
+msgid "IE8 - Footer - Heading Border"
+msgstr ""
+
+#: framework/site-options.php:985
+msgid "Specify the color for the bottom border on all Footer headings."
+msgstr ""
+
+#: framework/site-options.php:998
+msgid "Menu"
+msgstr ""
+
+#: framework/site-options.php:1002
+msgid "Menu Settings"
+msgstr ""
+
+#: framework/site-options.php:1003
+msgid "Customize your website's main menu."
+msgstr ""
+
+#: framework/site-options.php:1008
+msgid "Main Menu - Dropdowns"
+msgstr ""
+
+#: framework/site-options.php:1009
+msgid "Check this box to disable the dropdowns in the main menu."
+msgstr ""
+
+#: framework/site-options.php:1015
+msgid "Main Menu - Item Descriptions"
+msgstr ""
+
+#: framework/site-options.php:1016
+msgid ""
+"Check this box to disable the short descriptive text displayed below each "
+"main menu item."
+msgstr ""
+
+#: framework/site-options.php:1022
+msgid "Main Menu - Indicator Arrows"
+msgstr ""
+
+#: framework/site-options.php:1023
+msgid "Check this box to disable indicator arrows on top-level menu items."
+msgstr ""
+
+#: framework/site-options.php:1029
+msgid "Main Menu - Left Border"
+msgstr ""
+
+#: framework/site-options.php:1030
+msgid "Check this box to disable the left border on top-level menu items."
+msgstr ""
+
+#: framework/site-options.php:1036
+msgid "Karma Mega Menu"
+msgstr ""
+
+#: framework/site-options.php:1037
+msgid "Easily turn any menu item into a multi-column mega menu."
+msgstr ""
+
+#: framework/site-options.php:1042
+msgid "Activate Karma Mega Menu"
+msgstr ""
+
+#: framework/site-options.php:1043
+msgid "Check this box to activate Karma mega menu."
+msgstr ""
+
+#: framework/site-options.php:1049
+msgid "Horizontal Sub-menu"
+msgstr ""
+
+#: framework/site-options.php:1050
+msgid "This sub-menu is displayed at the top of Full Width page templates."
+msgstr ""
+
+#: framework/site-options.php:1055
+msgid "Disable Horizontal Sub-menu"
+msgstr ""
+
+#: framework/site-options.php:1056
+msgid ""
+"Check this box to completely disable the horizontal sub-menu on all pages."
+msgstr ""
+
+#: framework/site-options.php:1062
+msgid "UberMenu Settings"
+msgstr ""
+
+#: framework/site-options.php:1063
+msgid "Use the options below to modify the integration of the UberMenu Plugin."
+msgstr ""
+
+#: framework/site-options.php:1088
+msgid "UberMenu - Default Karma Styling"
+msgstr ""
+
+#: framework/site-options.php:1089
+msgid ""
+"Check this box to integrate Karma's default menu styling with UberMenu. You "
+"must also visit the UberMenu configuration page and choose the skin labeled "
+"\"None (Disable)\". More details about skins available in the <a href="
+"\"http://sevenspark.com/docs/ubermenu-3/settings/menu/skins\" target=\"_blank"
+"\">UberMenu Knowledgebase</a>."
+msgstr ""
+
+#: framework/site-options.php:1102
+msgid "Fonts"
+msgstr ""
+
+#: framework/site-options.php:1106
+msgid "Font Kits"
+msgstr ""
+
+#: framework/site-options.php:1107
+msgid ""
+"Groups of pre-designed Google Fonts with pixel-perfect settings. Click one "
+"and done."
+msgstr ""
+
+#: framework/site-options.php:1112
+msgid "Modern Font Kit"
+msgstr ""
+
+#: framework/site-options.php:1113
+msgid ""
+"The Modern Font Kit contains clean and modern sans-serif fonts perfect for "
+"every type of website.<br /><em>Lato + Open Sans</em>."
+msgstr ""
+
+#: framework/site-options.php:1119
+msgid "Serif Font Kit"
+msgstr ""
+
+#: framework/site-options.php:1120
+msgid ""
+"The Serif Font Kit contains a gorgeous combination of serif and sans-serif "
+"fonts for a sophisticated design.<br /><em>PT Serif + Source Sans Pro</em>."
+msgstr ""
+
+#: framework/site-options.php:1126
+msgid "Organic Font Kit"
+msgstr ""
+
+#: framework/site-options.php:1127
+msgid ""
+"The Organic Font Kit contains clean and rounded sans-serif fonts for a soft "
+"and inviting design.<br /><em>Varela Round + Open Sans</em>."
+msgstr ""
+
+#: framework/site-options.php:1133
+msgid "Custom Font Settings"
+msgstr ""
+
+#: framework/site-options.php:1134
+msgid "Use the settings below to use custom font settings instead."
+msgstr ""
+
+#: framework/site-options.php:1139
+msgid "Google Web Fonts"
+msgstr ""
+
+#: framework/site-options.php:1140
+msgid ""
+"Select a font face to be used for your website's headings.<br>Font names "
+"(from left to right):<br>- (none)<br>- Droid Sans<br>- Cabin<br>- "
+"Cantarell<br>- Cuprum<br>- Oswald<br>- Neuton<br>- Oritron<br>- Arvo<br>- "
+"Kreon<br>- Indie Flower<br>- Josefin Sans"
+msgstr ""
+
+#: framework/site-options.php:1160
+msgid "Custom Google Web Font"
+msgstr ""
+
+#: framework/site-options.php:1161
+msgid ""
+"Enter a custom font name If you prefer to use a font that's not listed above."
+"<br>Here is the complete list of available <a href=\"http://www.google.com/"
+"webfonts\" target=\"_blank\">Google Web Fonts</a>."
+msgstr ""
+
+#: framework/site-options.php:1166
+msgid "Font Color &rarr; Custom Logo"
+msgstr ""
+
+#: framework/site-options.php:1167
+msgid "Select a font color for the custom logo."
+msgstr ""
+
+#: framework/site-options.php:1172
+msgid "Font Color &rarr; Main Menu"
+msgstr ""
+
+#: framework/site-options.php:1173
+msgid "Select a font color for the main menu items."
+msgstr ""
+
+#: framework/site-options.php:1178
+msgid "Font Color &rarr; Main Content"
+msgstr ""
+
+#: framework/site-options.php:1179
+msgid "Select a font color for the main content area."
+msgstr ""
+
+#: framework/site-options.php:1184
+msgid "Font Color &rarr; Footer Content"
+msgstr ""
+
+#: framework/site-options.php:1185
+msgid "Select a font color for the footer content area."
+msgstr ""
+
+#: framework/site-options.php:1190
+msgid "Font Color &rarr; Links"
+msgstr ""
+
+#: framework/site-options.php:1191
+msgid "Select a font color for links."
+msgstr ""
+
+#: framework/site-options.php:1196
+msgid "Font Color &rarr; Link:Hover"
+msgstr ""
+
+#: framework/site-options.php:1197
+msgid "Select a font color for links on hover."
+msgstr ""
+
+#: framework/site-options.php:1202
+msgid "Font Color &rarr; Side Navigation"
+msgstr ""
+
+#: framework/site-options.php:1203
+msgid "Select a font color for the side navigation items."
+msgstr ""
+
+#: framework/site-options.php:1208
+msgid "Font Color &rarr; H1 Headings"
+msgstr ""
+
+#: framework/site-options.php:1209
+msgid "Select a font color for all &lt;h1&gt; headings."
+msgstr ""
+
+#: framework/site-options.php:1214
+msgid "Font Color &rarr; H2 Headings"
+msgstr ""
+
+#: framework/site-options.php:1215
+msgid "Select a font color for all &lt;h2&gt; headings."
+msgstr ""
+
+#: framework/site-options.php:1220
+msgid "Font Color &rarr; H3 Headings"
+msgstr ""
+
+#: framework/site-options.php:1221
+msgid "Select a font color for all &lt;h3&gt; headings."
+msgstr ""
+
+#: framework/site-options.php:1226
+msgid "Font Color &rarr; H4 Headings"
+msgstr ""
+
+#: framework/site-options.php:1227
+msgid "Select a font color for all &lt;h4&gt; headings."
+msgstr ""
+
+#: framework/site-options.php:1232
+msgid "Font Color &rarr; H5 Headings"
+msgstr ""
+
+#: framework/site-options.php:1233
+msgid "Select a font color for all &lt;h5&gt; headings."
+msgstr ""
+
+#: framework/site-options.php:1239
+msgid "Font Color &rarr; H6 Headings"
+msgstr ""
+
+#: framework/site-options.php:1240
+msgid "Select a font color for all &lt;h6&gt; headings."
+msgstr ""
+
+#: framework/site-options.php:1255
+msgid "Font Size &rarr; Custom Logo"
+msgstr ""
+
+#: framework/site-options.php:1256
+msgid "Select a font size for the custom logo."
+msgstr ""
+
+#: framework/site-options.php:1262
+msgid "Font Size &rarr; Main Menu"
+msgstr ""
+
+#: framework/site-options.php:1263
+msgid "Select a font size for the main menu items."
+msgstr ""
+
+#: framework/site-options.php:1270
+msgid "Font Size &rarr; Main Content"
+msgstr ""
+
+#: framework/site-options.php:1271
+msgid "Select a font size for the main content area."
+msgstr ""
+
+#: framework/site-options.php:1277
+msgid "Font Size &rarr; Side Navigation"
+msgstr ""
+
+#: framework/site-options.php:1278
+msgid "Select a font size for side navigation items. headings."
+msgstr ""
+
+#: framework/site-options.php:1284
+msgid "Font Size &rarr; H1 Headings"
+msgstr ""
+
+#: framework/site-options.php:1285
+msgid "Select a font size for all &lt;h1&gt; headings."
+msgstr ""
+
+#: framework/site-options.php:1291
+msgid "Font Size &rarr; H2 Headings"
+msgstr ""
+
+#: framework/site-options.php:1292
+msgid "Select a font size for all &lt;h2&gt; headings."
+msgstr ""
+
+#: framework/site-options.php:1298
+msgid "Font Size &rarr; H3 Headings"
+msgstr ""
+
+#: framework/site-options.php:1299
+msgid "Select a font size for all &lt;h3&gt; headings."
+msgstr ""
+
+#: framework/site-options.php:1305
+msgid "Font Size &rarr; H4 Headings"
+msgstr ""
+
+#: framework/site-options.php:1306
+msgid "Select a font size for all &lt;h4&gt; headings."
+msgstr ""
+
+#: framework/site-options.php:1312
+msgid "Font Size &rarr; H5 Headings"
+msgstr ""
+
+#: framework/site-options.php:1313
+msgid "Select a font size for all &lt;h5&gt; headings."
+msgstr ""
+
+#: framework/site-options.php:1320
+msgid "Font Size &rarr; H6 Headings"
+msgstr ""
+
+#: framework/site-options.php:1321
+msgid "Select a font size for all &lt;h6&gt; headings."
+msgstr ""
+
+#: framework/site-options.php:1327
+msgid "Font Size &rarr; Footer Content"
+msgstr ""
+
+#: framework/site-options.php:1328
+msgid "Select a font size for the footer content area. headings."
+msgstr ""
+
+#: framework/site-options.php:1362
+msgid "Font Face &rarr; Custom Logo Text"
+msgstr ""
+
+#: framework/site-options.php:1363
+msgid "Select a font face for your custom logo text."
+msgstr ""
+
+#: framework/site-options.php:1370
+msgid "Font Face &rarr; Main Content"
+msgstr ""
+
+#: framework/site-options.php:1371
+msgid "Select a font face for the main content area."
+msgstr ""
+
+#: framework/site-options.php:1377
+msgid "Font Face &rarr; Main Menu"
+msgstr ""
+
+#: framework/site-options.php:1378
+msgid "Select a font face for the main menu items."
+msgstr ""
+
+#: framework/site-options.php:1384
+msgid "Font Face &rarr; Side Navigation"
+msgstr ""
+
+#: framework/site-options.php:1385
+msgid "Select a font face for the side navigation items."
+msgstr ""
+
+#: framework/site-options.php:1391
+msgid "Font Face &rarr; H1 Headings"
+msgstr ""
+
+#: framework/site-options.php:1392
+msgid "Select a font face for all &lt;h1&gt; headings."
+msgstr ""
+
+#: framework/site-options.php:1398
+msgid "Font Face &rarr; H2 Headings"
+msgstr ""
+
+#: framework/site-options.php:1399
+msgid "Select a font face for all &lt;h2&gt; headings."
+msgstr ""
+
+#: framework/site-options.php:1405
+msgid "Font Face &rarr; H3 Headings"
+msgstr ""
+
+#: framework/site-options.php:1406
+msgid "Select a font face for all &lt;h3&gt; headings."
+msgstr ""
+
+#: framework/site-options.php:1412
+msgid "Font Face &rarr; H4 Headings"
+msgstr ""
+
+#: framework/site-options.php:1413
+msgid "Select a font face for all &lt;h4&gt; headings."
+msgstr ""
+
+#: framework/site-options.php:1419
+msgid "Font Face &rarr; H5 Headings"
+msgstr ""
+
+#: framework/site-options.php:1420
+msgid "Select a font face for all &lt;h5&gt; headings."
+msgstr ""
+
+#: framework/site-options.php:1426
+msgid "Font Face &rarr; H6 Headings"
+msgstr ""
+
+#: framework/site-options.php:1427
+msgid "Select a font face for all &lt;h6&gt; headings."
+msgstr ""
+
+#: framework/site-options.php:1433
+msgid "Font Face &rarr; Footer Content"
+msgstr ""
+
+#: framework/site-options.php:1434
+msgid "Select a font face for the footer content area."
+msgstr ""
+
+#: framework/site-options.php:1450
+msgid "Logo"
+msgstr ""
+
+#: framework/site-options.php:1454
+msgid "Logo "
+msgstr ""
+
+#: framework/site-options.php:1455
+msgid "A handful of powerful settings for your website's logo."
+msgstr ""
+
+#: framework/site-options.php:1461
+msgid "Logo Position"
+msgstr ""
+
+#: framework/site-options.php:1462
+msgid "Left, Center, or Right."
+msgstr ""
+
+#: framework/site-options.php:1474
+msgid "Upload your Logo"
+msgstr ""
+
+#: framework/site-options.php:1475
+msgid "Recommended dimensions: 154 x 57"
+msgstr ""
+
+#: framework/site-options.php:1480
+msgid "Website Logo - ALT Text"
+msgstr ""
+
+#: framework/site-options.php:1481
+msgid ""
+"Enter custom ALT Text for your website's logo. If left blank the Site Title "
+"specified within <a href=\""
+msgstr ""
+
+#: framework/site-options.php:1486
+msgid "Website Logo - Retina Version"
+msgstr ""
+
+#: framework/site-options.php:1487
+msgid ""
+"The dimensions of the retina logo should be exactly twice the size of the "
+"original logo."
+msgstr ""
+
+#: framework/site-options.php:1492
+msgid "Website Logo - Width"
+msgstr ""
+
+#: framework/site-options.php:1493
+msgid ""
+"Enter the width of your logo if you've uploaded a Retina logo above. "
+"<em>(Please Note: this is the width of the original non-retina logo)</"
+"em><br /><strong>Example input:</strong> 154px"
+msgstr ""
+
+#: framework/site-options.php:1498
+msgid "Website Logo - Height"
+msgstr ""
+
+#: framework/site-options.php:1499
+msgid ""
+"Enter the height of your logo if you've uploaded a Retina logo above. "
+"<em>(Please Note: this is the height of the original non-retina logo)</"
+"em><br /><strong>Example input:</strong> 57px"
+msgstr ""
+
+#: framework/site-options.php:1504
+msgid "Website Favicon"
+msgstr ""
+
+#: framework/site-options.php:1505
+msgid ""
+"Upload a 16px x 16px image that will represent your website's favicon.<br /"
+"><em>To ensure cross-browser compatibility, we recommend converting the "
+"favicon into .ico format before uploading. (<a href=\"http://www.favicon.cc/"
+"\">www.favicon.cc</a>)</em>"
+msgstr ""
+
+#: framework/site-options.php:1510
+msgid "Logo Builder"
+msgstr ""
+
+#: framework/site-options.php:1511
+msgid ""
+"Don't have a company logo? Use the Builder tool below to create one. (or "
+"simply ignore this section)"
+msgstr ""
+
+#: framework/site-options.php:1516
+msgid "Logo Builder - Icon"
+msgstr ""
+
+#: framework/site-options.php:1517
+msgid "Select a logo icon."
+msgstr ""
+
+#: framework/site-options.php:1535
+msgid "Logo Builder - Text"
+msgstr ""
+
+#: framework/site-options.php:1536
+msgid ""
+"Enter logo text. <em>(Please Note: When text is entered into this field it "
+"will disable the logo image upload above. Simply remove text from this field "
+"to re-enable logo upload.)</em>"
+msgstr ""
+
+#: framework/site-options.php:1542
+msgid "Wordpress"
+msgstr ""
+
+#: framework/site-options.php:1543
+msgid "Upload a logo to be displayed on the Worpress login screen"
+msgstr ""
+
+#: framework/site-options.php:1548
+msgid "Wordpress - Upload Logo"
+msgstr ""
+
+#: framework/site-options.php:1549
+msgid "Recommended dimensions: 285 x 80"
+msgstr ""
+
+#: framework/site-options.php:1562
+msgid "Header"
+msgstr ""
+
+#: framework/site-options.php:1566
+msgid "Header Settings"
+msgstr ""
+
+#: framework/site-options.php:1567
+msgid ""
+"Customize all items within the Header area of your website. (Header and Top-"
+"Toolbar)"
+msgstr ""
+
+#: framework/site-options.php:1572
+msgid "Select Header Style"
+msgstr ""
+
+#: framework/site-options.php:1583
+msgid "Sticky Header and Menu Bar"
+msgstr ""
+
+#: framework/site-options.php:1584
+msgid "Check this box to enable a sticky header and menu bar."
+msgstr ""
+
+#: framework/site-options.php:1590
+msgid "Sticky Header and Menu Bar - Version 2"
+msgstr ""
+
+#: framework/site-options.php:1591
+msgid ""
+"Check this box to enable a sticky header and menu bar. This version gets "
+"activated on \"scroll up\" rather than \"scroll down\"."
+msgstr ""
+
+#: framework/site-options.php:1597
+msgid "Sticky Header and Menu Bar - Enable shorter height"
+msgstr ""
+
+#: framework/site-options.php:1598
+#, php-format
+msgid ""
+"Check this box to render the sticky menu with a much shorter height. The "
+"sticky menu will have reduced padding, no logo, and no descriptive text on "
+"menu items. It will reduce the height by approx. 50% less space than the "
+"original.<br /><strong><a href=\"http://s3.truethemes.net.s3.amazonaws.com/"
+"misc-files/karma-theme-short-sticky-header.png\" class=\"thickbox\">Click "
+"here to view an example</a></strong>"
+msgstr ""
+
+#: framework/site-options.php:1604
+msgid "Header - Height Adjust"
+msgstr ""
+
+#: framework/site-options.php:1605
+msgid ""
+"Adjust the height of the heading by entering a custom value for it's padding."
+"<br />The default value is: <strong>30px</strong>"
+msgstr ""
+
+#: framework/site-options.php:1610
+msgid "Header - Transparent Overlay Image"
+msgstr ""
+
+#: framework/site-options.php:1611
+msgid "Select a transparent overlay image for the header area of your website."
+msgstr ""
+
+#: framework/site-options.php:1627 framework/site-options.php:1741
+msgid "Shadow Style"
+msgstr ""
+
+#: framework/site-options.php:1628
+msgid "Select a shadow style for the header area of your website."
+msgstr ""
+
+#: framework/site-options.php:1643
+msgid "Header - Transparent Overlay - Custom Image"
+msgstr ""
+
+#: framework/site-options.php:1648
+msgid "Top Toolbar Settings"
+msgstr ""
+
+#: framework/site-options.php:1649
+msgid ""
+"Top Toolbar is the colored bar at the very top of the website above the "
+"header, logo and main menu area"
+msgstr ""
+
+#: framework/site-options.php:1654
+msgid "Toolbar"
+msgstr ""
+
+#: framework/site-options.php:1655
+msgid "Toolbar is displayed by default. Un-check the box to disable."
+msgstr ""
+
+#: framework/site-options.php:1661
+msgid "Toolbar - Left Side"
+msgstr ""
+
+#: framework/site-options.php:1662
+msgid "Left-side widget area included by default. Un-check the box to disable."
+msgstr ""
+
+#: framework/site-options.php:1668
+msgid "Toolbar - Right Side"
+msgstr ""
+
+#: framework/site-options.php:1669
+msgid ""
+"Right-side widget area included by default. Un-check the box to disable."
+msgstr ""
+
+#: framework/site-options.php:1682
+msgid "Footer"
+msgstr ""
+
+#: framework/site-options.php:1686
+msgid "Footer Settings"
+msgstr ""
+
+#: framework/site-options.php:1687
+msgid "A handful of powerful settings for the footer area of your website."
+msgstr ""
+
+#: framework/site-options.php:1692
+msgid "Design Style"
+msgstr ""
+
+#: framework/site-options.php:1693
+msgid "1. footer + copyright<br />2. footer only<br />3. copyright only"
+msgstr ""
+
+#: framework/site-options.php:1704
+msgid "Columns"
+msgstr ""
+
+#: framework/site-options.php:1705
+msgid "Select the number of columns to be displayed in the footer."
+msgstr ""
+
+#: framework/site-options.php:1712
+msgid "Back-to-top Link"
+msgstr ""
+
+#: framework/site-options.php:1713
+msgid "A smooth scrolling animated back-to-top link."
+msgstr ""
+
+#: framework/site-options.php:1719
+msgid "Transparent Overlay Image"
+msgstr ""
+
+#: framework/site-options.php:1720
+msgid "Select a transparent overlay image for the footer."
+msgstr ""
+
+#: framework/site-options.php:1737
+msgid "Transparent Overlay - Custom Image"
+msgstr ""
+
+#: framework/site-options.php:1742
+msgid "Select a shadow style for the footer."
+msgstr ""
+
+#: framework/site-options.php:1757
+msgid "Footer Callout"
+msgstr ""
+
+#: framework/site-options.php:1758
+msgid "Check this box to enable the footer callout area."
+msgstr ""
+
+#: framework/site-options.php:1764
+msgid "Footer Callout - Background Color"
+msgstr ""
+
+#: framework/site-options.php:1770
+msgid "Footer Callout - Background Color (on Hover)"
+msgstr ""
+
+#: framework/site-options.php:1776
+msgid "Footer Callout - Content"
+msgstr ""
+
+#: framework/site-options.php:1777
+msgid "Enter the content to be displayed within the footer callout area."
+msgstr ""
+
+#: framework/site-options.php:1784
+msgid "Footer Callout - Link URL"
+msgstr ""
+
+#: framework/site-options.php:1785
+msgid ""
+"Enter a URL to link the footer callout area.<br /><em><strong>Example:</"
+"strong> http://www.google.com</em>"
+msgstr ""
+
+#: framework/site-options.php:1790 framework/site-options.php:1796
+msgid "Copyright Info"
+msgstr ""
+
+#: framework/site-options.php:1791
+msgid "Add the Copyright info inside <a href=\""
+msgstr ""
+
+#: framework/site-options.php:1797
+msgid "Check this box to display copyright info in the footer."
+msgstr ""
+
+#: framework/site-options.php:1803
+msgid "Center the Text"
+msgstr ""
+
+#: framework/site-options.php:1804
+msgid "Check this box to center the copyright info in the footer."
+msgstr ""
+
+#: framework/site-options.php:1822
+msgid ""
+"The Page Title Bar is displayed below the header containing Page Title, "
+"Breadcrumbs and Search box."
+msgstr ""
+
+#: framework/site-options.php:1828
+msgid "Check this box to include the Page Title Bar at the top of each page."
+msgstr ""
+
+#: framework/site-options.php:1834
+msgid "Choose a Design Style"
+msgstr ""
+
+#: framework/site-options.php:1845 framework/site-options.php:2530
+msgid "Breadcrumbs"
+msgstr ""
+
+#: framework/site-options.php:1846
+msgid "Check this box to include Breadcrumbs in the Page Title Bar."
+msgstr ""
+
+#: framework/site-options.php:1852
+msgid "Search box"
+msgstr ""
+
+#: framework/site-options.php:1853
+msgid "Check this box to include a Search Box in the Page Title Bar."
+msgstr ""
+
+#: framework/site-options.php:1859
+msgid "Search box Text"
+msgstr ""
+
+#: framework/site-options.php:1860
+msgid "This text is displayed in the search box."
+msgstr ""
+
+#: framework/site-options.php:1866
+msgid "Breadcrumbs (Home Link)"
+msgstr ""
+
+#: framework/site-options.php:1867
+msgid "This text used for the \"home link\" in the breadcrumbs."
+msgstr ""
+
+#: framework/site-options.php:1881 framework/site-options.php:1885
+msgid "Content Area"
+msgstr ""
+
+#: framework/site-options.php:1886
+msgid ""
+"Customize the content area of your website. This is the main area that spans "
+"between the header and footer."
+msgstr ""
+
+#: framework/site-options.php:1891
+msgid "Content Area - Background Color"
+msgstr ""
+
+#: framework/site-options.php:1892
+msgid "Choose a custom background color for the content area of your website."
+msgstr ""
+
+#: framework/site-options.php:1906
+msgid "Content Area - Disable Gradient"
+msgstr ""
+
+#: framework/site-options.php:1907
+msgid ""
+"Check the box to disable subtle gradient added to top and bottom of content "
+"area."
+msgstr ""
+
+#: framework/site-options.php:1913
+msgid "Content Area - Custom Background Color"
+msgstr ""
+
+#: framework/site-options.php:1914
+msgid "Choose a custom background color for the content area."
+msgstr ""
+
+#: framework/site-options.php:1919
+msgid "Content Area - Separator Lines - Dark"
+msgstr ""
+
+#: framework/site-options.php:1920
+msgid ""
+"If you've used the color picker to specify a custom background color then "
+"you'll need to specify a color for the separator lines.<br />Separator lines "
+"are the 2 pixel borders between sidebar widgets, sidebar/content areas, etc."
+"<br />Specify the Dark separator line by choosing a color just slightly "
+"darker than your custom content area background color."
+msgstr ""
+
+#: framework/site-options.php:1925
+msgid "Content Area - Separator Lines - Light"
+msgstr ""
+
+#: framework/site-options.php:1926
+msgid ""
+"Set the Light separator line by choosing a color just slightly lighter than "
+"the custom background color."
+msgstr ""
+
+#: framework/site-options.php:1931
+msgid "Google Map - Contact Page"
+msgstr ""
+
+#: framework/site-options.php:1932
+msgid ""
+"Input the &lt;iframe&gt; map code if using the Google Map Contact Page.<br /"
+">This code can be obtained from <a href=\"https://maps.google.com/\">https://"
+"maps.google.com/</a>"
+msgstr ""
+
+#: framework/site-options.php:1945 framework/site-options.php:1948
+msgid "Boxed Layout"
+msgstr ""
+
+#: framework/site-options.php:1949
+msgid ""
+"Switch to a Boxed Layout Design using the settings below. Please note that "
+"all settings below are only visible when Boxed Layout is enabled."
+msgstr ""
+
+#: framework/site-options.php:1954
+msgid "Enable Boxed Layout"
+msgstr ""
+
+#: framework/site-options.php:1955
+msgid "Check this box to switch to a Boxed Layout Design."
+msgstr ""
+
+#: framework/site-options.php:1961
+msgid "Drop Shadow"
+msgstr ""
+
+#: framework/site-options.php:1962
+msgid ""
+"Set the opacity of the Boxed Layout drop shadow.<br /><em>Values from: 0.1 - "
+"1.0</em>"
+msgstr ""
+
+#: framework/site-options.php:1968
+msgid "Body Background Color"
+msgstr ""
+
+#: framework/site-options.php:1969
+msgid ""
+"Specify a background color for the &lt;body&gt; element of your website."
+msgstr ""
+
+#: framework/site-options.php:1974
+msgid "Body Background Image"
+msgstr ""
+
+#: framework/site-options.php:1975
+msgid ""
+"Select a custom background image for the &lt;body&gt; element of your "
+"website (or upload custom image below)"
+msgstr ""
+
+#: framework/site-options.php:2004
+msgid "Custom Upload"
+msgstr ""
+
+#: framework/site-options.php:2005
+msgid ""
+"Upload a custom background image. Free backgrounds can be downloaded from <a "
+"href=\"http://www.subtlepatterns.com\" target=\"_blank\">www.subtlepatterns."
+"com</a>"
+msgstr ""
+
+#: framework/site-options.php:2011
+msgid "Background Image Position"
+msgstr ""
+
+#: framework/site-options.php:2012
+msgid "Set the background-position property for the custom background image."
+msgstr ""
+
+#: framework/site-options.php:2026
+msgid "Background Image Repeat"
+msgstr ""
+
+#: framework/site-options.php:2027
+msgid "Set the background-repeat property for the custom background image."
+msgstr ""
+
+#: framework/site-options.php:2038
+msgid "Enable Fixed Background Image"
+msgstr ""
+
+#: framework/site-options.php:2039
+msgid "Check this box to make the body background image fixed."
+msgstr ""
+
+#: framework/site-options.php:2051
+msgid "Sliders"
+msgstr ""
+
+#: framework/site-options.php:2056
+msgid ""
+"A handful of custom settings for all jQuery Sliders within your website."
+msgstr ""
+
+#: framework/site-options.php:2061 framework/site-options.php:2193
+msgid "Pause on Hover"
+msgstr ""
+
+#: framework/site-options.php:2062 framework/site-options.php:2194
+msgid ""
+"Check this box to pause the slider when a user hovers over with their mouse."
+msgstr ""
+
+#: framework/site-options.php:2068 framework/site-options.php:2200
+msgid "Randomize Slides"
+msgstr ""
+
+#: framework/site-options.php:2069 framework/site-options.php:2201
+msgid "Check this box to randomize the order of the slides."
+msgstr ""
+
+#: framework/site-options.php:2075 framework/site-options.php:2207
+msgid "Next/Previous Arrows"
+msgstr ""
+
+#: framework/site-options.php:2076 framework/site-options.php:2208
+msgid "Check this box to display next/previous arrows."
+msgstr ""
+
+#: framework/site-options.php:2082 framework/site-options.php:2214
+msgid "Animation Effect"
+msgstr ""
+
+#: framework/site-options.php:2083 framework/site-options.php:2215
+msgid "Select an animation effect."
+msgstr ""
+
+#: framework/site-options.php:2093 framework/site-options.php:2225
+msgid "Display Time"
+msgstr ""
+
+#: framework/site-options.php:2094 framework/site-options.php:2226
+msgid ""
+"Enter the amount of time to display each slide before changing, in "
+"milliseconds."
+msgstr ""
+
+#: framework/site-options.php:2100 framework/site-options.php:2232
+msgid "Animation Speed"
+msgstr ""
+
+#: framework/site-options.php:2101 framework/site-options.php:2233
+msgid "Enter the speed of the animations, in milliseconds."
+msgstr ""
+
+#: framework/site-options.php:2107
+msgid "jQuery1 Slider"
+msgstr ""
+
+#: framework/site-options.php:2109
+msgid "Custom settings for the jQuery1 Slider."
+msgstr ""
+
+#: framework/site-options.php:2113
+msgid "jQuery1 Slider Background - Flat Design Style"
+msgstr ""
+
+#: framework/site-options.php:2118
+msgid "jQuery1 Slider Background - Gradient Inner"
+msgstr ""
+
+#: framework/site-options.php:2123
+msgid "jQuery1 Slider Background - Gradient Outer"
+msgstr ""
+
+#: framework/site-options.php:2129
+msgid "jQuery2 Slider"
+msgstr ""
+
+#: framework/site-options.php:2130
+msgid "Custom settings for the jQuery2 Slider."
+msgstr ""
+
+#: framework/site-options.php:2135
+msgid "jQuery2 Slider - Background Color"
+msgstr ""
+
+#: framework/site-options.php:2136
+msgid ""
+"Choose a background color for the jQuery2 Slider. (or specify custom "
+"background color below)"
+msgstr ""
+
+#: framework/site-options.php:2150
+msgid "jQuery2 Slider - Custom Background Color"
+msgstr ""
+
+#: framework/site-options.php:2151
+msgid "Specify a custom background color for the jQuery2 Slider."
+msgstr ""
+
+#: framework/site-options.php:2156
+msgid "jQuery3 Slider"
+msgstr ""
+
+#: framework/site-options.php:2157
+msgid "Custom settings for the jQuery3 Slider."
+msgstr ""
+
+#: framework/site-options.php:2162
+msgid "jQuery3 Slider - Transparent Overlay Image"
+msgstr ""
+
+#: framework/site-options.php:2163
+msgid "Select a transparent overlay image for the jQuery3 Slider."
+msgstr ""
+
+#: framework/site-options.php:2179
+msgid "jQuery3 Slider - Custom Background Color"
+msgstr ""
+
+#: framework/site-options.php:2180
+msgid "Specify a custom background color for the jQuery3 Slider."
+msgstr ""
+
+#: framework/site-options.php:2185
+msgid "Testimonial Slider"
+msgstr ""
+
+#: framework/site-options.php:2186
+msgid "Custom settings for the Testimonial Slider."
+msgstr ""
+
+#: framework/site-options.php:2245 framework/site-options.php:2249
+msgid "Forms"
+msgstr ""
+
+#: framework/site-options.php:2250
+msgid "A handful of powerful settings for the included Form Builder."
+msgstr ""
+
+#: framework/site-options.php:2255
+msgid "Form Builder"
+msgstr ""
+
+#: framework/site-options.php:2256
+msgid ""
+"A powerful form builder is included in this theme by default. <em>Un-check "
+"this box to disable the form builder.</em>"
+msgstr ""
+
+#: framework/site-options.php:2262
+msgid "\"Required Text\""
+msgstr ""
+
+#: framework/site-options.php:2263
+msgid "Customize the text that will be displayed next to required fields."
+msgstr ""
+
+#: framework/site-options.php:2269
+msgid "Success Message"
+msgstr ""
+
+#: framework/site-options.php:2270
+msgid ""
+"Customize the success message that will be displayed after a user submits "
+"the form."
+msgstr ""
+
+#: framework/site-options.php:2276
+msgid "Submit Button - Text"
+msgstr ""
+
+#: framework/site-options.php:2277
+msgid "Customize the text to be used for the form's Submit Button"
+msgstr ""
+
+#: framework/site-options.php:2283
+msgid "reCAPTCHA: Public Key"
+msgstr ""
+
+#: framework/site-options.php:2284
+msgid ""
+"Enter your reCAPTCHA Public Key.<br>\n"
+"\t\t\tYou can obtain your reCAPTCHA keys at: <a href=\"http://www.google.com/"
+"recaptcha\" target=\"_blank\">google.com/recaptcha</a><br><em>Simply leave "
+"this field blank if you won't be using this functionality.</em>"
+msgstr ""
+
+#: framework/site-options.php:2290
+msgid "reCAPTCHA: Private Key"
+msgstr ""
+
+#: framework/site-options.php:2291
+msgid ""
+"Enter your reCAPTCHA Private Key.<br>\n"
+"\t\t\tYou can obtain your reCAPTCHA keys at: <a href=\"http://www.google.com/"
+"recaptcha\" target=\"_blank\">google.com/recaptcha</a><br><em>Simply leave "
+"this field blank if you won't be using this functionality.</em>"
+msgstr ""
+
+#: framework/site-options.php:2304 framework/site-options.php:2308
+msgid "Utility Pages"
+msgstr ""
+
+#: framework/site-options.php:2309
+msgid "Customize the 404 Error Page, Search Results and Sitemap Pages."
+msgstr ""
+
+#: framework/site-options.php:2314
+msgid "404 Error - Page Title"
+msgstr ""
+
+#: framework/site-options.php:2315
+msgid ""
+"Set the page title to be displayed in the breadcrumb area of the 404 Error "
+"Page."
+msgstr ""
+
+#: framework/site-options.php:2321
+msgid "404 Error - Page Content"
+msgstr ""
+
+#: framework/site-options.php:2322
+msgid "Set the page content to be displayed within the 404 Error Page."
+msgstr ""
+
+#: framework/site-options.php:2334
+msgid "Custom settings for the search results page."
+msgstr ""
+
+#: framework/site-options.php:2339
+msgid "Search Results - Page Title"
+msgstr ""
+
+#: framework/site-options.php:2340
+msgid ""
+"Set the page title to be displayed in the breadcrumb area of the Search "
+"Results Page."
+msgstr ""
+
+#: framework/site-options.php:2346
+msgid "Search Results - Fallback Message"
+msgstr ""
+
+#: framework/site-options.php:2347
+msgid ""
+"Set the message to be displayed when a search comes back with no results."
+msgstr ""
+
+#: framework/site-options.php:2353
+msgid "Sitemap Settings"
+msgstr ""
+
+#: framework/site-options.php:2354
+msgid ""
+"The following settings are only required when using the Sitemap-2 Page "
+"Template."
+msgstr ""
+
+#: framework/site-options.php:2359
+msgid "Sitemap - Column One Title"
+msgstr ""
+
+#: framework/site-options.php:2360
+msgid "This title is displayed above the list of pages in the first column."
+msgstr ""
+
+#: framework/site-options.php:2366
+msgid "Sitemap - Column Two Title"
+msgstr ""
+
+#: framework/site-options.php:2367
+msgid "This title is displayed above the list of posts in the second column."
+msgstr ""
+
+#: framework/site-options.php:2373
+msgid "Sitemap - Column Three Content"
+msgstr ""
+
+#: framework/site-options.php:2374
+msgid "This content is displayed in the third column."
+msgstr ""
+
+#: framework/site-options.php:2389 framework/site-options.php:2393
+msgid "Twitter oAuth"
+msgstr ""
+
+#: framework/site-options.php:2394
+msgid ""
+"As of June 11, 2013 Twitter has shutdown their public API and the latest "
+"tweets functionality now requires the authentication credentials listed "
+"below. <strong>Need Assistance?</strong> <a href=\"https://help.truethemes."
+"net/knowledge-base/twitter-feed-down-latest-tweets-not-displaying/\" target="
+"\"_blank\">View this HelpDesk article &rarr;</a>"
+msgstr ""
+
+#: framework/site-options.php:2399
+msgid "Consumer Key"
+msgstr ""
+
+#: framework/site-options.php:2400
+msgid "Enter your Twitter application's Consumer Key."
+msgstr ""
+
+#: framework/site-options.php:2405
+msgid "Consumer Secret"
+msgstr ""
+
+#: framework/site-options.php:2406
+msgid "Enter your Twitter application's Consumer Secret."
+msgstr ""
+
+#: framework/site-options.php:2411
+msgid "Access Token"
+msgstr ""
+
+#: framework/site-options.php:2412
+msgid "Enter your Twitter application's Access Token."
+msgstr ""
+
+#: framework/site-options.php:2417
+msgid "Access Token Secret"
+msgstr ""
+
+#: framework/site-options.php:2418
+msgid "Enter your Twitter application's Access Token Secret."
+msgstr ""
+
+#: framework/site-options.php:2423
+msgid "Cache Timing"
+msgstr ""
+
+#: framework/site-options.php:2424
+msgid ""
+"Latest Tweets need to be cached in order to comply with Twitter API Call "
+"Limits.<br />Please select your desired cache timing interval.<br />(new "
+"tweets will be refreshed at the selected timing interval)"
+msgstr ""
+
+#: framework/site-options.php:2430
+msgid "Cache Temporary Disable"
+msgstr ""
+
+#: framework/site-options.php:2431
+msgid ""
+"Use this option to temporarily turn off the cache during configuration so "
+"that your changes will be reflected immediately. Remember to turn the cache "
+"back after you've confirmed tweets are displaying nicely."
+msgstr ""
+
+#: framework/site-options.php:2444 framework/site-options.php:2448
+msgid "WooCommerce"
+msgstr ""
+
+#: framework/site-options.php:2449
+msgid "Customize your WooCommerce shop."
+msgstr ""
+
+#: framework/site-options.php:2454
+msgid "WooCommerce - Custom Title"
+msgstr ""
+
+#: framework/site-options.php:2455
+msgid "This title is displayed in the page title bar of all WooCommerce pages."
+msgstr ""
+
+#: framework/site-options.php:2461
+msgid "WooCommerce - Page Layout"
+msgstr ""
+
+#: framework/site-options.php:2462
+msgid "Choose a Page Layout for all WooCommerce pages."
+msgstr ""
+
+#: framework/site-options.php:2473
+msgid "WooCommerce - Page Title Bar"
+msgstr ""
+
+#: framework/site-options.php:2474
+msgid ""
+"Check this box to display the Page Title Bar on all WooCommerce pages. "
+"<em>(page title, breadcrumbs and search box)</em>"
+msgstr ""
+
+#: framework/site-options.php:2480
+msgid "WooCommerce - Breadcrumbs"
+msgstr ""
+
+#: framework/site-options.php:2481 framework/site-options.php:2531
+msgid "Check this box to display Breadcrumbs in the Page Title Bar."
+msgstr ""
+
+#: framework/site-options.php:2487
+msgid "WooCommerce - Search Box"
+msgstr ""
+
+#: framework/site-options.php:2488 framework/site-options.php:2538
+msgid "Check this box to display a Search Box in the Page Title Bar."
+msgstr ""
+
+#: framework/site-options.php:2501 framework/site-options.php:2505
+msgid "bbPress Forums"
+msgstr ""
+
+#: framework/site-options.php:2506
+msgid "Customize your bbPress Forums."
+msgstr ""
+
+#: framework/site-options.php:2512
+msgid "Choose a Page Layout for your bbPress Forums."
+msgstr ""
+
+#: framework/site-options.php:2524
+msgid ""
+"Check this box to display the Page Title Bar on all bbPress pages. <em>(page "
+"title, breadcrumbs and search box)</em>"
+msgstr ""
+
+#: framework/site-options.php:2537
+msgid "Search Box"
+msgstr ""
+
+#: framework/site-options.php:2551
+msgid "Karma v3"
+msgstr ""
+
+#: framework/site-options.php:2555
+msgid "Karma 3.x Settings"
+msgstr ""
+
+#: framework/site-options.php:2556
+msgid ""
+"The settings below have been deprecated since Karma 4.0. These settings are "
+"no longer needed and can safely be ignored if you're using Karma 4.0 or "
+"later."
+msgstr ""
+
+#: framework/site-options.php:2562
+msgid "Karma 3.x Page Templates + Post Settings"
+msgstr ""
+
+#: framework/site-options.php:2563
+msgid ""
+"Check this box to activate Karma 3.x page templates and post settings. This "
+"will turn on the old gallery post settings, etc."
+msgstr ""
+
+#: framework/site-options.php:2569
+msgid "jQuery Slider Post Category"
+msgstr ""
+
+#: framework/site-options.php:2570
+msgid "Select the category that will be used for generating the jQuery slides."
+msgstr ""
+
+#: framework/site-options.php:2577
+msgid "JQuery Slider Pause Settings"
+msgstr ""
+
+#: framework/site-options.php:2578
+msgid ""
+"Check this box if you would like the jQuery slider to pause when the user "
+"hovers over a slide."
+msgstr ""
+
+#: framework/site-options.php:2584
+msgid "jQuery Homepage Slider Time"
+msgstr ""
+
+#: framework/site-options.php:2585
+msgid ""
+"Enter the desired amount of time you would like to display each slide. "
+"(milliseconds)"
+msgstr ""
+
+#: framework/site-options.php:2591
+msgid "3D CU3ER - Slider ID Number"
+msgstr ""
+
+#: framework/site-options.php:2592
+msgid ""
+"Enter the ID number of the 3D slider you would like to embed on the "
+"\"Homepage :: 3D\" page template.<br><em>Not sure where to find the slider "
+"ID number? <a href=\"http://themes.5-squared.com/support/cu3er-instructions."
+"html\" target=\"_blank\">View these visual instructions.</a></em>"
+msgstr ""
+
+#: framework/template-tags.php:21
+msgid "Posts navigation"
+msgstr ""
+
+#: framework/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: framework/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: framework/template-tags.php:95
+msgid "by "
+msgstr ""
+
+#: framework/truethemes/metabox/helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr ""
+
+#: framework/truethemes/metabox/helpers/cmb_Meta_Box_ajax.php:118
+msgid "Remove Embed"
+msgstr ""
+
+#: framework/truethemes/metabox/helpers/cmb_Meta_Box_ajax.php:121
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: framework/truethemes/metabox/helpers/cmb_Meta_Box_types.php:139
+msgid "Add Row"
+msgstr ""
+
+#: framework/truethemes/metabox/helpers/cmb_Meta_Box_types.php:437
+#: framework/truethemes/metabox/helpers/cmb_Meta_Box_types.php:475
+msgid "Add or Upload File"
+msgstr ""
+
+#: framework/truethemes/metabox/helpers/cmb_Meta_Box_types.php:448
+#: framework/truethemes/metabox/helpers/cmb_Meta_Box_types.php:494
+msgid "Remove Image"
+msgstr ""
+
+#: framework/truethemes/metabox/helpers/cmb_Meta_Box_types.php:459
+#: framework/truethemes/metabox/helpers/cmb_Meta_Box_types.php:502
+msgid "File:"
+msgstr ""
+
+#: framework/truethemes/metabox/helpers/cmb_Meta_Box_types.php:459
+#: framework/truethemes/metabox/helpers/cmb_Meta_Box_types.php:502
+msgid "Download"
+msgstr ""
+
+#: framework/truethemes/metabox/init.php:214
+msgid "Clear"
+msgstr ""
+
+#: framework/truethemes/metabox/init.php:215
+msgid "Default"
+msgstr ""
+
+#: framework/truethemes/metabox/init.php:216
+msgid "Select Color"
+msgstr ""
+
+#: framework/truethemes/metabox/init.php:217
+msgid "Current Color"
+msgstr ""
+
+#: framework/truethemes/metabox/init.php:943
+msgid "Save"
+msgstr ""
+
+#: framework/truethemes/wysiwyg/interface.php:2
+msgid "You are not allowed to be here"
+msgstr ""
+
+#: framework/widgets.php:11
+msgid "Link to your RSS feed and Social Media accounts."
+msgstr ""
+
+#: framework/widgets.php:13
+msgid "CUSTOM - Social Networks"
+msgstr ""
+
+#: framework/widgets.php:96 framework/widgets.php:98
+msgid "RSS Feed"
+msgstr ""
+
+#: framework/widgets.php:96 framework/widgets.php:98
+msgid "RSS"
+msgstr ""
+
+#: framework/widgets.php:223
+msgid ""
+"Please enter the full URL to each of your Social Media accounts below.<br /"
+"><br />Simply leave the field blank if you do not wish to display that "
+"Social Media service."
+msgstr ""
+
+#: framework/widgets.php:226
+msgid "Check this box to switch to clean-style retina-ready vector icons."
+msgstr ""
+
+#: framework/widgets.php:230
+msgid "Check this box to switch to colored retina-ready vector icons."
+msgstr ""
+
+#: framework/widgets.php:234
+msgid ""
+"Check this box to display the social media name next to it's icon. (ie. "
+"\"Twitter\") "
+msgstr ""
+
+#: framework/widgets.php:238
+msgid "Check this box to open the Social Icon links in a new window"
+msgstr ""
+
+#: framework/widgets.php:240
+msgid "Title:<br />(ie. \"Social Networks\")"
+msgstr ""
+
+#: framework/widgets.php:242
+msgid "Link the Title?"
+msgstr ""
+
+#: framework/widgets.php:248
+msgid "None"
+msgstr ""
+
+#: framework/widgets.php:255
+msgid "RSS Feed:<br />(leave empty for default RSS Feed)"
+msgstr ""
+
+#: framework/widgets.php:257
+msgid "Twitter:"
+msgstr ""
+
+#: framework/widgets.php:259
+msgid "Facebook:"
+msgstr ""
+
+#: framework/widgets.php:261
+msgid "Email Address:"
+msgstr ""
+
+#: framework/widgets.php:263
+msgid "Flickr:"
+msgstr ""
+
+#: framework/widgets.php:265
+msgid "Youtube:"
+msgstr ""
+
+#: framework/widgets.php:267
+msgid "LinkedIn:"
+msgstr ""
+
+#: framework/widgets.php:269
+msgid "Pinterest:"
+msgstr ""
+
+#: framework/widgets.php:271
+msgid "Instagram:"
+msgstr ""
+
+#: framework/widgets.php:273
+msgid "FourSquare:"
+msgstr ""
+
+#: framework/widgets.php:275
+msgid "Delicious:"
+msgstr ""
+
+#: framework/widgets.php:277
+msgid "Digg:"
+msgstr ""
+
+#: framework/widgets.php:279
+msgid "Google+:"
+msgstr ""
+
+#: framework/widgets.php:281
+msgid "Dribbble:"
+msgstr ""
+
+#: framework/widgets.php:283
+msgid "Skype:"
+msgstr ""
+
+#: framework/widgets.php:285
+msgid "Vkontakte:"
+msgstr ""
+
+#: framework/widgets.php:287
+msgid "Vimeo:"
+msgstr ""
+
+#: framework/widgets.php:289
+msgid "SoundCloud:"
+msgstr ""
+
+#: framework/widgets.php:291
+msgid "Odnoklassniki:"
+msgstr ""
+
+#: framework/widgets.php:303
+msgid "Show your recent posts."
+msgstr ""
+
+#: framework/widgets.php:304
+msgid "CUSTOM - Recent Posts"
+msgstr ""
+
+#: framework/widgets.php:361
+msgid "Number of Posts:"
+msgstr ""
+
+#: framework/widgets.php:371
+msgid "A list or dropdown of categories"
+msgstr ""
+
+#: framework/widgets.php:372
+msgid "CUSTOM - Categories"
+msgstr ""
+
+#: framework/widgets.php:376 functions.php:423 functions.php:438
+msgid "Categories"
+msgstr ""
+
+#: framework/widgets.php:390
+msgid "Select Category"
+msgstr ""
+
+#: framework/widgets.php:436
+msgid "Show as dropdown"
+msgstr ""
+
+#: framework/widgets.php:438 framework/widgets.php:494
+msgid "Show post counts"
+msgstr ""
+
+#: framework/widgets.php:440
+msgid "Show hierarchy"
+msgstr ""
+
+#: framework/widgets.php:450
+msgid "A monthly archive of your site&#8217;s posts"
+msgstr ""
+
+#: framework/widgets.php:451
+msgid "CUSTOM - Archives"
+msgstr ""
+
+#: framework/widgets.php:457
+msgid "Archives"
+msgstr ""
+
+#: framework/widgets.php:467
+msgid "Select Month"
+msgstr ""
+
+#: framework/widgets.php:496
+msgid "Display as a drop down"
+msgstr ""
+
+#: framework/widgets.php:509
+msgid "Use this widget to add one of your custom menus as a widget."
+msgstr ""
+
+#: framework/widgets.php:510
+msgid "Custom Menu"
+msgstr ""
+
+#: framework/widgets.php:542
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: framework/widgets.php:551
+msgid "Select Menu:"
+msgstr ""
+
+#: functions.php:64
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:65
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:66
+msgid "Top Toolbar Menu"
+msgstr ""
+
+#: functions.php:241
+msgid "Footer Copyright"
+msgstr ""
+
+#: functions.php:242
+msgid "Add Copyright information to the Footer."
+msgstr ""
+
+#: functions.php:257
+msgid "Footer &copy; Copyright Text"
+msgstr ""
+
+#: functions.php:453
+msgid "Slider Posts"
+msgstr ""
+
+#: functions.php:454
+msgid "Slider Post"
+msgstr ""
+
+#: functions.php:456
+msgid "slider"
+msgstr ""
+
+#: functions.php:457 functions.php:491
+msgid "Add New"
+msgstr ""
+
+#: functions.php:458
+msgid "Add New Slider Post"
+msgstr ""
+
+#: functions.php:459
+msgid "Edit Slider Post"
+msgstr ""
+
+#: functions.php:460
+msgid "New Slider Post"
+msgstr ""
+
+#: functions.php:461
+msgid "View Slider Post"
+msgstr ""
+
+#: functions.php:462
+msgid "Search Slider Posts"
+msgstr ""
+
+#: functions.php:463
+msgid "No Slider Posts found"
+msgstr ""
+
+#: functions.php:464
+msgid "No Slider Posts found in Trash"
+msgstr ""
+
+#: functions.php:487
+msgid "Gallery Posts"
+msgstr ""
+
+#: functions.php:488
+msgid "Gallery Post"
+msgstr ""
+
+#: functions.php:490
+msgid "gallery"
+msgstr ""
+
+#: functions.php:492
+msgid "Add New Gallery Post"
+msgstr ""
+
+#: functions.php:493
+msgid "Edit Gallery Post"
+msgstr ""
+
+#: functions.php:494
+msgid "New Gallery Post"
+msgstr ""
+
+#: functions.php:495
+msgid "View Gallery Post"
+msgstr ""
+
+#: functions.php:496
+msgid "Search Gallery Posts"
+msgstr ""
+
+#: functions.php:497
+msgid "No Gallery Posts found"
+msgstr ""
+
+#: functions.php:498
+msgid "No Gallery Posts found in Trash"
+msgstr ""
+
+#: functions.php:879
+msgid "Return to Plugin Installer"
+msgstr ""
+
+#: functions.php:913
+msgid ""
+"<h3>Welcome</h3><p class=\"about-description\">Importing demo data is the "
+"easiest way to setup your theme. It will allow you to quickly edit "
+"everything instead of creating content from scratch. Posts, pages, images, "
+"widgets, menus and other theme settings will get automatically imported. "
+"Please be patient as it may take a few minutes to complete.</"
+"p><h3>Installation</h3><ul><li>Start the Import by clicking the button "
+"below. Please click the button only one time</li><li>You'll receive a "
+"notification on this page once the Import has completed.</li><li>Enjoy :)</"
+"li><ul>"
+msgstr ""
+
+#: functions.php:1022
+#, php-format
+msgid "View all items filed under %s"
+msgstr ""
+
+#: functions.php:1038
+#, php-format
+msgid "Feed for all posts filed under %s"
+msgstr ""
+
+#: header.php:200
+msgid "Add Social Networks Widget in WP Dashboard: <a href=\""
+msgstr ""
+
+#: page-layouts/archive-layout-left-or-right-sidebar.php:68
+#: page-layouts/archive-layout-left-or-right-sidebar.php:73
+#: page-layouts/archive-layout-left-or-right-sidebar.php:75
+#: page-layouts/archive-layout-left-or-right-sidebar.php:77
+#: page-layouts/archive-layout-left-or-right-sidebar.php:107
+#: page-layouts/archive-layout-left-or-right-sidebar.php:112
+#: page-layouts/archive-layout-left-or-right-sidebar.php:114
+#: page-layouts/archive-layout-left-or-right-sidebar.php:116
+msgid "Archive for"
+msgstr ""
+
+#: page-layouts/archive-layout-left-or-right-sidebar.php:71
+#: page-layouts/archive-layout-left-or-right-sidebar.php:110
+msgid "Posts Tagged"
+msgstr ""
+
+#: page-layouts/archive-layout-left-or-right-sidebar.php:79
+#: page-layouts/archive-layout-left-or-right-sidebar.php:118
+msgid "Author Archive"
+msgstr ""
+
+#: page-layouts/archive-layout-left-or-right-sidebar.php:81
+#: page-layouts/archive-layout-left-or-right-sidebar.php:120
+msgid "Blog Archives"
+msgstr ""
+
+#: page-layouts/archive-layout-left-or-right-sidebar.php:197
+#: page-layouts/blog-single-layout-full-width.php:154
+#: page-layouts/blog-single-layout-left-sidebar.php:154
+#: page-layouts/blog-single-layout-right-sidebar.php:155
+#: post-formats/default-audio.php:39 post-formats/default-content.php:57
+#: post-formats/default-gallery.php:50
+msgid "Posted by:"
+msgstr ""
+
+#: page-layouts/archive-layout-left-or-right-sidebar.php:220
+#: post-formats/default-content.php:81 post-formats/default-gallery.php:95
+#: post-formats/gallery.php:80 post-formats/standard.php:49
+msgid "Continue reading "
+msgstr ""
+
+#: page-layouts/archive-layout-left-or-right-sidebar.php:262
+#: page-layouts/blog-layout-left-sidebar.php:119
+#: page-layouts/blog-layout-right-sidebar.php:120
+#: page-layouts/blog-single-layout-full-width.php:281
+#: page-layouts/blog-single-layout-left-sidebar.php:282
+#: page-layouts/blog-single-layout-right-sidebar.php:282
+msgid "Nothing Found"
+msgstr ""
+
+#: page-layouts/archive-layout-left-or-right-sidebar.php:263
+#: page-layouts/blog-layout-left-sidebar.php:120
+#: page-layouts/blog-layout-right-sidebar.php:121
+#: page-layouts/blog-single-layout-full-width.php:282
+#: page-layouts/blog-single-layout-left-sidebar.php:283
+#: page-layouts/blog-single-layout-right-sidebar.php:283
+msgid "Sorry, it appears there is no content in this section."
+msgstr ""
+
+#: page-layouts/blog-single-layout-full-width.php:246
+#: page-layouts/blog-single-layout-left-sidebar.php:247
+#: page-layouts/blog-single-layout-right-sidebar.php:247
+msgid "About the Author:"
+msgstr ""
+
+#: page-layouts/blog-single-layout-full-width.php:257
+#: page-layouts/blog-single-layout-left-sidebar.php:258
+#: page-layouts/blog-single-layout-right-sidebar.php:258
+msgid "Share on Twitter"
+msgstr ""
+
+#: page-layouts/blog-single-layout-full-width.php:259
+#: page-layouts/blog-single-layout-left-sidebar.php:260
+#: page-layouts/blog-single-layout-right-sidebar.php:260
+msgid "Share on Facebook"
+msgstr ""
+
+#: page-layouts/blog-single-layout-full-width.php:261
+#: page-layouts/blog-single-layout-left-sidebar.php:262
+#: page-layouts/blog-single-layout-right-sidebar.php:262
+msgid "Share on Google"
+msgstr ""
+
+#: search.php:43
+msgid "Search Results for"
+msgstr ""
+
+#: template-filterable-gallery.php:262
+#: template-portfolio-1-column-portrait.php:132
+#: template-portfolio-1-column.php:128
+msgid "top"
+msgstr ""
+
+#: template_contact_googlemap.php:59
+msgid ""
+"No Google Map Found. Add a Google Map from within your WP Dashboard under <a "
+"href=\""
+msgstr ""
+
+#: template_contact_iphone.php:22
+msgid ""
+"<strong>Add Widgets to this section in Wordpress Dashboard:</strong><br /"
+"><br /><ol><li><a href=\""
+msgstr ""
+
+#: theme-template-part-inline-editing.php:12
+msgid "+ Edit Post"
+msgstr ""
+
+#: theme-template-part-inline-editing.php:20
+msgid "+ Edit Page"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Karma"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://themeforest.net/user/TrueThemes/portfolio?ref=TrueThemes"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Karma is a Responsive Wordpress Theme with a multitude of amazing CMS "
+"features."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "TrueThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.truethemes.net"
+msgstr ""
